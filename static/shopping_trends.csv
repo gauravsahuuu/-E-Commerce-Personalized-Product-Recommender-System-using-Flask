@@ -1,0 +1,500 @@
+Age,Gender,Category,Location,Season,Review Rating,Previous Purchases,Environmental Impact,Textile Material,Item Purchased
+55,Male,Clothing,Kentucky,Winter,3.1,14,Environment Friendly,Silk,Blouse
+19,Female,Clothing,Maine,Winter,3.1,2,Moderately Harmful,Polyester,Sweater
+50,Male,Clothing,Massachusetts,Spring,3.1,23,Environment Friendly,Silk,Jeans
+21,Male,Footwear,Rhode Island,Spring,3.5,49,Moderately Harmful,Cotton,Sandals
+45,Female,Clothing,Oregon,Spring,2.7,31,Moderately Harmful,Polyester,Blouse
+46,Female,Footwear,Wyoming,Summer,2.9,14,Moderately Harmful,Silk,Sneakers
+63,Female,Clothing,Montana,Fall,3.2,49,Extremely Harmful,Wool,Shirt
+27,Female,Clothing,Louisiana,Winter,3.2,19,Environment Friendly,Acrylic,Shorts
+26,Female,Outerwear,West Virginia,Summer,2.6,8,Extremely Harmful,Cotton,Coat
+57,Female,Accessories,Missouri,Spring,4.8,4,Environment Friendly,Spandex,Handbag
+53,Male,Footwear,Arkansas,Fall,4.1,26,Extremely Harmful,Cotton,Shoes
+30,Male,Clothing,Hawaii,Winter,4.9,10,Moderately Harmful,Acrylic,Shorts
+61,Male,Outerwear,Delaware,Winter,4.5,37,Moderately Harmful,Wool,Coat
+65,Female,Clothing,New Hampshire,Spring,4.7,31,Extremely Harmful,Silk,Dress
+64,Female,Outerwear,New York,Winter,4.7,34,Environment Friendly,Linen,Coat
+64,Female,Clothing,Rhode Island,Winter,2.8,8,Extremely Harmful,Nylon,Skirt
+25,Male,Accessories,Alabama,Spring,4.1,44,Extremely Harmful,Acrylic,Sunglasses
+53,Female,Clothing,Mississippi,Winter,4.7,36,Environment Friendly,Linen,Dress
+52,Female,Clothing,Montana,Summer,4.6,17,Extremely Harmful,Polyester,Sweater
+66,Male,Clothing,Rhode Island,Summer,3.3,46,Extremely Harmful,Wool,Pants
+21,Female,Clothing,Louisiana,Winter,2.8,50,Moderately Harmful,Cotton,Pants
+31,Female,Clothing,North Carolina,Winter,4.1,22,Extremely Harmful,Polyester,Pants
+56,Female,Clothing,California,Summer,3.2,32,Environment Friendly,Nylon,Pants
+31,Male,Clothing,Oklahoma,Winter,4.4,40,Extremely Harmful,Linen,Pants
+18,Male,Outerwear,Florida,Fall,2.9,16,Moderately Harmful,Silk,Jacket
+18,Female,Clothing,Texas,Summer,3.6,14,Environment Friendly,Polyester,Hoodie
+38,Male,Accessories,Nevada,Spring,3.6,13,Moderately Harmful,Spandex,Jewelry
+56,Male,Clothing,Kentucky,Summer,5,7,Moderately Harmful,Silk,Shorts
+54,Male,Accessories,North Carolina,Fall,4.4,41,Extremely Harmful,Polyester,Handbag
+31,Male,Clothing,Wyoming,Fall,4.1,14,Environment Friendly,Silk,Dress
+57,Male,Accessories,North Carolina,Winter,4.7,16,Environment Friendly,Linen,Jewelry
+33,Female,Clothing,West Virginia,Winter,4.7,45,Extremely Harmful,Wool,Dress
+36,Female,Outerwear,Kansas,Summer,4.9,37,Extremely Harmful,Nylon,Jacket
+54,Female,Clothing,Colorado,Summer,3.3,45,Environment Friendly,Silk,Pants
+36,Female,Clothing,North Dakota,Spring,4.6,38,Moderately Harmful,Spandex,T-shirt
+54,Female,Clothing,Massachusetts,Summer,4,48,Environment Friendly,Polyester,Blouse
+35,Male,Clothing,Illinois,Winter,4.6,44,Extremely Harmful,Wool,T-shirt
+35,Male,Clothing,Indiana,Summer,2.8,10,Moderately Harmful,Nylon,Jeans
+29,Male,Clothing,Florida,Winter,3.7,44,Environment Friendly,Wool,Dress
+70,Female,Clothing,Arizona,Summer,4.2,18,Environment Friendly,Polyester,Pants
+69,Male,Accessories,Louisiana,Winter,4.6,31,Environment Friendly,Wool,Handbag
+67,Female,Accessories,Alaska,Spring,4.5,40,Extremely Harmful,Spandex,Scarf
+20,Male,Outerwear,Tennessee,Spring,4.1,15,Extremely Harmful,Linen,Coat
+25,Female,Accessories,Ohio,Fall,3.7,19,Extremely Harmful,Polyester,Scarf
+39,Male,Accessories,Kentucky,Summer,4.6,45,Moderately Harmful,Spandex,Hat
+50,Female,Clothing,Tennessee,Fall,2.9,25,Environment Friendly,Cotton,Socks
+57,Male,Clothing,California,Summer,2.9,45,Extremely Harmful,Nylon,Shirt
+55,Female,Accessories,Montana,Winter,4.5,36,Extremely Harmful,Wool,Jewelry
+42,Female,Clothing,Nevada,Summer,2.7,38,Moderately Harmful,Cotton,Shirt
+68,Male,Clothing,New Jersey,Spring,4.6,34,Extremely Harmful,Nylon,Hoodie
+49,Female,Clothing,Maryland,Spring,3.7,39,Environment Friendly,Nylon,Blouse
+59,Female,Clothing,Vermont,Winter,4.7,7,Extremely Harmful,Spandex,Skirt
+42,Male,Clothing,Alaska,Summer,2.6,26,Moderately Harmful,Nylon,T-shirt
+29,Male,Clothing,Mississippi,Winter,3.9,35,Moderately Harmful,Nylon,Skirt
+47,Male,Outerwear,New Mexico,Summer,4.2,35,Moderately Harmful,Nylon,Coat
+40,Female,Outerwear,South Carolina,Winter,3,49,Moderately Harmful,Acrylic,Jacket
+41,Male,Accessories,Mississippi,Summer,4.7,46,Extremely Harmful,Linen,Backpack
+21,Female,Outerwear,West Virginia,Summer,4.4,17,Extremely Harmful,Cotton,Coat
+69,Female,Clothing,Missouri,Summer,4.2,29,Environment Friendly,Polyester,Hoodie
+63,Male,Accessories,Louisiana,Spring,4.6,4,Moderately Harmful,Nylon,Belt
+50,Female,Clothing,Idaho,Summer,4,17,Environment Friendly,Acrylic,Sweater
+55,Female,Accessories,Texas,Winter,4.7,21,Environment Friendly,Silk,Scarf
+30,Male,Footwear,Mississippi,Spring,3.8,31,Moderately Harmful,Acrylic,Sneakers
+33,Female,Accessories,Arizona,Winter,2.7,43,Moderately Harmful,Acrylic,Sunglasses
+65,Male,Footwear,Alabama,Fall,4.8,18,Extremely Harmful,Silk,Boots
+65,Male,Accessories,New Jersey,Spring,4.8,44,Environment Friendly,Linen,Backpack
+31,Female,Clothing,Pennsylvania,Winter,4.7,3,Extremely Harmful,Wool,Blouse
+45,Male,Outerwear,Connecticut,Winter,4.4,49,Environment Friendly,Polyester,Coat
+57,Female,Accessories,Utah,Summer,3.9,21,Moderately Harmful,Acrylic,Handbag
+48,Male,Accessories,Tennessee,Summer,4.4,5,Extremely Harmful,Polyester,Belt
+22,Male,Accessories,Alabama,Fall,4.2,32,Moderately Harmful,Polyester,Belt
+36,Female,Clothing,Virginia,Summer,2.9,34,Environment Friendly,Linen,Dress
+18,Male,Clothing,Georgia,Winter,2.9,21,Extremely Harmful,Linen,Dress
+48,Female,Clothing,Hawaii,Spring,2.7,43,Environment Friendly,Nylon,Pants
+49,Female,Accessories,Indiana,Spring,4.5,3,Extremely Harmful,Silk,Gloves
+64,Female,Accessories,Utah,Summer,2.7,21,Extremely Harmful,Silk,Scarf
+50,Female,Accessories,Delaware,Summer,4.2,32,Environment Friendly,Linen,Hat
+22,Male,Clothing,Delaware,Summer,3.3,36,Moderately Harmful,Polyester,Dress
+50,Female,Clothing,Nebraska,Spring,4.7,50,Environment Friendly,Nylon,Skirt
+38,Male,Outerwear,Iowa,Winter,2.6,43,Moderately Harmful,Nylon,Jacket
+19,Male,Footwear,New York,Summer,3.3,24,Moderately Harmful,Wool,Sandals
+67,Male,Footwear,Virginia,Summer,2.6,36,Moderately Harmful,Linen,Shoes
+19,Male,Clothing,Georgia,Spring,4,21,Moderately Harmful,Spandex,Pants
+36,Male,Clothing,Texas,Summer,4.1,34,Moderately Harmful,Cotton,Dress
+52,Male,Outerwear,Arizona,Spring,4.4,42,Extremely Harmful,Nylon,Coat
+53,Female,Accessories,New Mexico,Winter,4.5,2,Moderately Harmful,Linen,Sunglasses
+24,Male,Clothing,Nevada,Spring,3.7,47,Environment Friendly,Linen,Hoodie
+52,Male,Footwear,Ohio,Fall,3.7,44,Moderately Harmful,Nylon,Shoes
+33,Female,Clothing,Wyoming,Fall,3.5,35,Moderately Harmful,Linen,T-shirt
+47,Female,Outerwear,California,Fall,3.6,15,Extremely Harmful,Linen,Jacket
+25,Female,Accessories,South Carolina,Summer,2.9,29,Moderately Harmful,Spandex,Hat
+44,Female,Accessories,South Carolina,Winter,4.6,18,Extremely Harmful,Silk,Scarf
+61,Female,Outerwear,Texas,Winter,4.4,13,Extremely Harmful,Nylon,Jacket
+37,Female,Clothing,Florida,Fall,4.5,46,Extremely Harmful,Nylon,Sweater
+58,Male,Clothing,Nevada,Spring,4.6,28,Extremely Harmful,Nylon,Skirt
+37,Female,Footwear,Missouri,Fall,3.8,48,Environment Friendly,Spandex,Sneakers
+32,Female,Accessories,Delaware,Spring,3.6,43,Moderately Harmful,Spandex,Gloves
+21,Female,Footwear,Virginia,Winter,4.8,37,Extremely Harmful,Acrylic,Shoes
+20,Male,Clothing,New York,Spring,2.6,20,Extremely Harmful,Wool,Jeans
+26,Male,Clothing,Missouri,Summer,3.7,33,Extremely Harmful,Spandex,Hoodie
+62,Female,Accessories,South Dakota,Fall,2.7,31,Extremely Harmful,Acrylic,Sunglasses
+27,Female,Outerwear,North Dakota,Spring,4.6,50,Environment Friendly,Polyester,Coat
+51,Male,Clothing,Oklahoma,Winter,4.8,35,Moderately Harmful,Silk,Socks
+54,Male,Footwear,West Virginia,Winter,4,22,Environment Friendly,Silk,Boots
+55,Female,Accessories,New Hampshire,Spring,4.4,1,Extremely Harmful,Cotton,Sunglasses
+69,Male,Accessories,New York,Fall,3.6,4,Moderately Harmful,Spandex,Backpack
+64,Female,Outerwear,Minnesota,Summer,3.7,31,Extremely Harmful,Polyester,Jacket
+28,Female,Footwear,Maryland,Winter,3.1,46,Moderately Harmful,Cotton,Sneakers
+70,Female,Clothing,Montana,Spring,3.4,32,Extremely Harmful,Spandex,Socks
+58,Male,Clothing,Alabama,Spring,2.6,43,Extremely Harmful,Acrylic,T-shirt
+56,Female,Accessories,New York,Summer,4,26,Environment Friendly,Spandex,Backpack
+26,Female,Accessories,Massachusetts,Summer,5,9,Moderately Harmful,Spandex,Belt
+37,Male,Accessories,Florida,Spring,4.3,28,Environment Friendly,Wool,Gloves
+44,Female,Accessories,New Jersey,Winter,3.1,20,Extremely Harmful,Cotton,Hat
+70,Female,Outerwear,Massachusetts,Summer,3.7,9,Moderately Harmful,Linen,Coat
+53,Female,Clothing,Wyoming,Spring,3.8,48,Extremely Harmful,Acrylic,Skirt
+55,Female,Footwear,Virginia,Spring,3.4,12,Extremely Harmful,Linen,Shoes
+50,Female,Footwear,South Dakota,Summer,4.6,29,Environment Friendly,Linen,Sandals
+50,Male,Clothing,Kentucky,Fall,4.8,27,Moderately Harmful,Acrylic,Sweater
+38,Male,Outerwear,Wyoming,Fall,4.3,44,Moderately Harmful,Linen,Coat
+64,Female,Accessories,West Virginia,Summer,4,32,Extremely Harmful,Acrylic,Hat
+19,Female,Clothing,Virginia,Winter,4.2,11,Environment Friendly,Spandex,Shorts
+40,Female,Accessories,Washington,Spring,4.8,44,Environment Friendly,Cotton,Backpack
+57,Male,Clothing,Louisiana,Fall,3.1,46,Moderately Harmful,Cotton,Sweater
+44,Male,Clothing,Nevada,Spring,3.1,50,Moderately Harmful,Acrylic,Sweater
+49,Male,Clothing,California,Winter,3.6,45,Moderately Harmful,Silk,Shorts
+43,Male,Clothing,Mississippi,Spring,3.9,48,Extremely Harmful,Spandex,Shorts
+24,Male,Clothing,Mississippi,Winter,4.8,26,Extremely Harmful,Wool,Sweater
+20,Male,Accessories,California,Spring,4.7,21,Moderately Harmful,Wool,Scarf
+24,Female,Clothing,Pennsylvania,Summer,4.2,49,Moderately Harmful,Acrylic,Dress
+44,Female,Accessories,Kentucky,Fall,3.7,13,Moderately Harmful,Polyester,Scarf
+28,Male,Clothing,Maine,Summer,3.9,46,Extremely Harmful,Spandex,Skirt
+30,Male,Accessories,New Mexico,Fall,4.7,42,Environment Friendly,Acrylic,Backpack
+52,Male,Clothing,Montana,Winter,2.5,25,Moderately Harmful,Spandex,Sweater
+43,Male,Accessories,Texas,Fall,4.9,25,Environment Friendly,Wool,Hat
+43,Male,Footwear,Kansas,Fall,4.1,12,Moderately Harmful,Nylon,Sandals
+39,Male,Clothing,South Carolina,Winter,3.3,4,Environment Friendly,Nylon,Blouse
+68,Female,Footwear,Colorado,Spring,4.7,38,Environment Friendly,Nylon,Sneakers
+68,Male,Clothing,Georgia,Winter,4.4,42,Moderately Harmful,Spandex,Skirt
+49,Male,Outerwear,Florida,Fall,3.8,30,Environment Friendly,Polyester,Coat
+63,Male,Clothing,North Carolina,Fall,3.9,50,Environment Friendly,Polyester,Shirt
+56,Male,Accessories,Virginia,Fall,4.9,45,Environment Friendly,Linen,Gloves
+37,Female,Outerwear,Nebraska,Fall,3.1,33,Extremely Harmful,Silk,Jacket
+30,Male,Outerwear,Missouri,Fall,2.7,25,Extremely Harmful,Silk,Coat
+19,Female,Footwear,New Jersey,Fall,3.2,25,Moderately Harmful,Wool,Shoes
+24,Female,Accessories,Missouri,Fall,4.5,44,Moderately Harmful,Nylon,Jewelry
+52,Female,Clothing,Colorado,Fall,4,21,Moderately Harmful,Nylon,Skirt
+63,Male,Footwear,Idaho,Summer,3.5,31,Environment Friendly,Linen,Shoes
+37,Female,Accessories,Wyoming,Fall,2.6,47,Moderately Harmful,Acrylic,Gloves
+38,Male,Clothing,Delaware,Summer,3.2,14,Moderately Harmful,Polyester,Pants
+35,Female,Footwear,California,Fall,4.9,17,Moderately Harmful,Cotton,Boots
+28,Female,Accessories,North Dakota,Fall,4.5,3,Environment Friendly,Silk,Sunglasses
+30,Female,Clothing,South Carolina,Summer,4.3,42,Extremely Harmful,Nylon,Shirt
+69,Male,Clothing,North Carolina,Winter,3.2,22,Environment Friendly,Acrylic,Hoodie
+41,Male,Clothing,Oklahoma,Fall,3.6,21,Extremely Harmful,Cotton,Dress
+63,Male,Clothing,Maine,Spring,4.3,21,Moderately Harmful,Polyester,Socks
+35,Female,Clothing,Missouri,Fall,4,40,Moderately Harmful,Linen,Shorts
+36,Female,Accessories,Vermont,Fall,3,1,Extremely Harmful,Cotton,Hat
+25,Female,Clothing,Connecticut,Fall,4.1,50,Environment Friendly,Spandex,Shirt
+58,Female,Accessories,New Hampshire,Fall,3.8,39,Extremely Harmful,Silk,Gloves
+27,Male,Accessories,Texas,Summer,4.6,34,Moderately Harmful,Acrylic,Gloves
+65,Male,Accessories,North Dakota,Fall,3,29,Extremely Harmful,Polyester,Backpack
+54,Male,Accessories,California,Summer,3,31,Environment Friendly,Acrylic,Sunglasses
+54,Male,Clothing,Virginia,Summer,3.4,8,Environment Friendly,Nylon,Skirt
+59,Male,Accessories,Delaware,Spring,2.6,5,Extremely Harmful,Polyester,Handbag
+42,Female,Accessories,Kentucky,Winter,2.8,7,Moderately Harmful,Linen,Handbag
+46,Female,Footwear,Delaware,Fall,4,30,Environment Friendly,Cotton,Sneakers
+33,Female,Accessories,Arkansas,Fall,4,14,Moderately Harmful,Acrylic,Gloves
+34,Female,Footwear,Louisiana,Summer,3,5,Moderately Harmful,Wool,Shoes
+27,Female,Outerwear,Nevada,Summer,3.3,3,Extremely Harmful,Acrylic,Jacket
+52,Female,Clothing,Wyoming,Fall,2.6,46,Moderately Harmful,Cotton,Shirt
+29,Female,Clothing,Virginia,Summer,3.6,4,Extremely Harmful,Acrylic,Shorts
+54,Female,Accessories,Nebraska,Summer,3.9,42,Moderately Harmful,Spandex,Jewelry
+25,Male,Accessories,Hawaii,Fall,3.4,30,Extremely Harmful,Wool,Hat
+41,Female,Footwear,Vermont,Winter,3.5,37,Extremely Harmful,Linen,Shoes
+53,Male,Outerwear,Oklahoma,Fall,2.8,2,Environment Friendly,Acrylic,Coat
+53,Female,Accessories,New Hampshire,Spring,2.7,30,Extremely Harmful,Cotton,Backpack
+21,Male,Clothing,Kansas,Fall,3.7,47,Extremely Harmful,Cotton,Hoodie
+61,Female,Clothing,Idaho,Fall,4.3,21,Moderately Harmful,Wool,Skirt
+64,Male,Footwear,Illinois,Fall,4.9,9,Extremely Harmful,Spandex,Boots
+51,Male,Footwear,South Dakota,Fall,3.3,12,Moderately Harmful,Nylon,Sandals
+32,Male,Clothing,Massachusetts,Summer,4.7,4,Extremely Harmful,Acrylic,Pants
+38,Male,Accessories,Alabama,Summer,2.8,10,Environment Friendly,Cotton,Gloves
+58,Female,Clothing,Ohio,Spring,3.6,26,Environment Friendly,Silk,Skirt
+32,Female,Footwear,Hawaii,Spring,3,40,Moderately Harmful,Nylon,Sneakers
+46,Male,Clothing,Wisconsin,Summer,4.5,34,Environment Friendly,Linen,T-shirt
+39,Male,Accessories,Minnesota,Summer,2.9,31,Moderately Harmful,Cotton,Backpack
+19,Male,Footwear,Georgia,Spring,3.3,1,Moderately Harmful,Linen,Shoes
+50,Male,Clothing,Arkansas,Spring,3.1,5,Moderately Harmful,Silk,Hoodie
+36,Female,Clothing,West Virginia,Fall,4.4,4,Environment Friendly,Acrylic,Blouse
+65,Female,Outerwear,Indiana,Fall,3,48,Extremely Harmful,Spandex,Coat
+64,Male,Accessories,Utah,Fall,3.9,29,Moderately Harmful,Spandex,Hat
+46,Female,Footwear,Nebraska,Summer,2.9,12,Extremely Harmful,Cotton,Shoes
+36,Female,Accessories,North Dakota,Fall,3,29,Environment Friendly,Wool,Belt
+51,Female,Accessories,Missouri,Spring,3.1,15,Moderately Harmful,Polyester,Backpack
+51,Female,Outerwear,New York,Fall,4.3,34,Extremely Harmful,Cotton,Jacket
+38,Male,Footwear,Washington,Summer,3.9,41,Environment Friendly,Nylon,Boots
+59,Female,Accessories,South Carolina,Fall,3.2,41,Extremely Harmful,Silk,Scarf
+57,Male,Accessories,Utah,Winter,4.8,39,Extremely Harmful,Cotton,Jewelry
+54,Male,Accessories,Idaho,Summer,3.8,32,Environment Friendly,Acrylic,Hat
+25,Male,Clothing,Pennsylvania,Summer,3.3,29,Environment Friendly,Wool,Dress
+69,Female,Clothing,Missouri,Fall,4.3,15,Moderately Harmful,Polyester,Blouse
+57,Male,Accessories,Nebraska,Spring,2.7,33,Extremely Harmful,Spandex,Hat
+70,Male,Accessories,Indiana,Fall,3.2,18,Extremely Harmful,Spandex,Scarf
+24,Female,Footwear,Arizona,Fall,4,35,Extremely Harmful,Wool,Sneakers
+67,Female,Clothing,Hawaii,Winter,3,25,Moderately Harmful,Spandex,Shirt
+24,Male,Clothing,Wisconsin,Summer,4.2,6,Environment Friendly,Linen,T-shirt
+62,Female,Accessories,Rhode Island,Summer,2.9,17,Environment Friendly,Wool,Gloves
+57,Male,Clothing,Wisconsin,Spring,4.1,17,Environment Friendly,Nylon,Skirt
+55,Male,Footwear,Minnesota,Winter,3.2,44,Moderately Harmful,Linen,Sandals
+45,Female,Outerwear,Vermont,Fall,3,6,Environment Friendly,Cotton,Jacket
+69,Male,Clothing,South Dakota,Fall,4.2,45,Extremely Harmful,Silk,Skirt
+67,Male,Accessories,Virginia,Fall,4.2,7,Extremely Harmful,Silk,Handbag
+30,Female,Accessories,Nevada,Fall,4.4,11,Moderately Harmful,Silk,Handbag
+24,Male,Outerwear,Hawaii,Summer,4.2,41,Moderately Harmful,Acrylic,Jacket
+62,Female,Accessories,New Jersey,Spring,2.8,24,Environment Friendly,Linen,Scarf
+43,Male,Clothing,Massachusetts,Spring,3.7,21,Moderately Harmful,Silk,Shorts
+35,Female,Accessories,Oklahoma,Winter,3.5,24,Extremely Harmful,Wool,Sunglasses
+28,Male,Clothing,California,Spring,2.9,8,Moderately Harmful,Cotton,T-shirt
+32,Female,Accessories,Nevada,Spring,3,12,Extremely Harmful,Spandex,Belt
+39,Female,Footwear,Arizona,Spring,3.7,48,Environment Friendly,Linen,Sneakers
+28,Female,Accessories,North Carolina,Summer,4.4,6,Moderately Harmful,Nylon,Hat
+47,Female,Accessories,New York,Spring,4.5,14,Extremely Harmful,Spandex,Gloves
+20,Male,Clothing,Wyoming,Spring,4.8,34,Environment Friendly,Silk,Pants
+63,Male,Clothing,South Dakota,Summer,2.9,12,Extremely Harmful,Spandex,Socks
+25,Female,Outerwear,Arkansas,Spring,3.2,11,Environment Friendly,Linen,Jacket
+29,Male,Footwear,Texas,Spring,3.3,5,Moderately Harmful,Linen,Shoes
+50,Male,Clothing,Rhode Island,Winter,4.2,25,Extremely Harmful,Nylon,Jeans
+18,Female,Clothing,New Hampshire,Spring,2.9,11,Extremely Harmful,Nylon,Socks
+70,Male,Footwear,Ohio,Spring,4.6,27,Environment Friendly,Wool,Sandals
+66,Male,Accessories,Utah,Fall,4.1,43,Environment Friendly,Spandex,Scarf
+28,Male,Clothing,Tennessee,Spring,3.1,18,Moderately Harmful,Polyester,Blouse
+54,Female,Accessories,Hawaii,Winter,4.2,32,Moderately Harmful,Wool,Jewelry
+19,Female,Clothing,Arizona,Fall,4.5,27,Extremely Harmful,Nylon,Sweater
+20,Male,Accessories,South Dakota,Summer,3.7,24,Moderately Harmful,Acrylic,Gloves
+43,Male,Accessories,New Jersey,Winter,3.7,31,Moderately Harmful,Cotton,Sunglasses
+38,Female,Outerwear,North Dakota,Winter,3.4,39,Moderately Harmful,Polyester,Coat
+50,Female,Clothing,Iowa,Summer,3,36,Extremely Harmful,Spandex,Dress
+64,Female,Clothing,Ohio,Fall,4.2,5,Extremely Harmful,Acrylic,Skirt
+49,Female,Clothing,Vermont,Summer,2.9,47,Moderately Harmful,Linen,Pants
+47,Male,Clothing,Montana,Winter,3.5,29,Extremely Harmful,Silk,Sweater
+36,Male,Clothing,Delaware,Winter,4.1,43,Extremely Harmful,Linen,Hoodie
+55,Female,Outerwear,New York,Summer,4.3,40,Environment Friendly,Spandex,Coat
+25,Female,Accessories,Kentucky,Winter,2.8,4,Extremely Harmful,Nylon,Jewelry
+53,Female,Accessories,Oregon,Spring,4.9,39,Environment Friendly,Nylon,Belt
+49,Male,Footwear,Rhode Island,Summer,3.3,45,Environment Friendly,Acrylic,Sandals
+35,Female,Accessories,Nevada,Spring,3.2,20,Environment Friendly,Silk,Sunglasses
+29,Female,Clothing,Montana,Spring,4.4,14,Moderately Harmful,Linen,Sweater
+47,Male,Accessories,Pennsylvania,Winter,4.8,33,Environment Friendly,Wool,Belt
+53,Male,Accessories,Alaska,Fall,4.2,18,Environment Friendly,Cotton,Handbag
+33,Female,Clothing,Mississippi,Fall,4,9,Moderately Harmful,Linen,Skirt
+21,Female,Accessories,Wyoming,Winter,2.5,34,Extremely Harmful,Wool,Handbag
+32,Female,Clothing,Delaware,Summer,3.9,33,Moderately Harmful,Silk,Shorts
+52,Female,Footwear,Oklahoma,Winter,4.9,15,Moderately Harmful,Nylon,Boots
+67,Female,Accessories,Indiana,Winter,3.5,4,Environment Friendly,Acrylic,Sunglasses
+43,Male,Accessories,Maryland,Spring,4.2,25,Moderately Harmful,Silk,Scarf
+58,Male,Accessories,South Dakota,Spring,4.7,20,Environment Friendly,Spandex,Jewelry
+20,Male,Accessories,West Virginia,Summer,4.5,5,Extremely Harmful,Acrylic,Handbag
+61,Male,Accessories,Alabama,Spring,2.8,16,Environment Friendly,Wool,Gloves
+32,Female,Clothing,Louisiana,Fall,2.9,13,Environment Friendly,Linen,Jeans
+38,Male,Accessories,Montana,Winter,3.2,11,Moderately Harmful,Wool,Hat
+21,Male,Clothing,California,Winter,4.9,21,Environment Friendly,Acrylic,Jeans
+37,Male,Clothing,Hawaii,Summer,3.7,6,Extremely Harmful,Acrylic,Pants
+27,Male,Clothing,Iowa,Summer,4.3,29,Environment Friendly,Linen,Shorts
+36,Male,Clothing,Colorado,Fall,3.9,15,Environment Friendly,Polyester,Pants
+32,Female,Accessories,Michigan,Spring,3.2,17,Environment Friendly,Wool,Backpack
+51,Female,Accessories,Louisiana,Summer,3.1,32,Moderately Harmful,Nylon,Jewelry
+64,Male,Clothing,Maryland,Spring,3.9,42,Environment Friendly,Cotton,Sweater
+68,Male,Footwear,Georgia,Spring,2.6,21,Environment Friendly,Cotton,Shoes
+68,Female,Clothing,Georgia,Winter,3.3,9,Environment Friendly,Polyester,Blouse
+33,Female,Clothing,North Dakota,Fall,4.6,16,Environment Friendly,Polyester,Jeans
+65,Male,Accessories,Maryland,Summer,4.6,42,Environment Friendly,Linen,Sunglasses
+48,Male,Accessories,Oregon,Summer,4.4,37,Moderately Harmful,Nylon,Jewelry
+69,Female,Outerwear,North Dakota,Spring,4.2,32,Extremely Harmful,Cotton,Coat
+59,Male,Accessories,Maryland,Spring,3,28,Extremely Harmful,Wool,Jewelry
+48,Female,Accessories,Virginia,Winter,4,13,Environment Friendly,Polyester,Backpack
+25,Female,Clothing,South Dakota,Fall,3.5,11,Moderately Harmful,Acrylic,Skirt
+29,Female,Clothing,Georgia,Winter,3,36,Extremely Harmful,Silk,Shirt
+57,Male,Clothing,Hawaii,Spring,3.7,23,Extremely Harmful,Spandex,Sweater
+23,Male,Footwear,Arkansas,Summer,4,37,Moderately Harmful,Wool,Sneakers
+45,Female,Footwear,Montana,Fall,4.2,21,Moderately Harmful,Silk,Sandals
+38,Female,Accessories,Oklahoma,Spring,2.5,22,Environment Friendly,Acrylic,Belt
+21,Female,Clothing,Minnesota,Summer,3,9,Extremely Harmful,Silk,Skirt
+32,Male,Clothing,Montana,Fall,3.2,16,Extremely Harmful,Cotton,Sweater
+63,Female,Clothing,Ohio,Summer,3.5,4,Extremely Harmful,Spandex,Skirt
+29,Female,Accessories,Kentucky,Summer,4.8,3,Extremely Harmful,Wool,Handbag
+27,Female,Accessories,Nebraska,Summer,2.6,6,Moderately Harmful,Polyester,Jewelry
+56,Female,Accessories,Delaware,Spring,3.4,18,Moderately Harmful,Cotton,Scarf
+30,Female,Clothing,North Carolina,Winter,3.7,34,Moderately Harmful,Polyester,T-shirt
+49,Male,Outerwear,New York,Fall,4.5,26,Extremely Harmful,Spandex,Coat
+58,Male,Clothing,Colorado,Winter,3.7,50,Environment Friendly,Nylon,T-shirt
+57,Male,Clothing,Delaware,Fall,3.3,40,Extremely Harmful,Acrylic,Dress
+60,Male,Footwear,Utah,Spring,4.7,24,Environment Friendly,Spandex,Shoes
+69,Male,Accessories,Connecticut,Spring,2.7,33,Extremely Harmful,Acrylic,Handbag
+70,Female,Clothing,New Jersey,Spring,4.6,19,Moderately Harmful,Linen,Skirt
+53,Male,Accessories,West Virginia,Winter,2.7,24,Moderately Harmful,Nylon,Sunglasses
+25,Female,Footwear,Indiana,Spring,4.8,19,Extremely Harmful,Spandex,Sandals
+48,Female,Footwear,Delaware,Summer,4.4,4,Environment Friendly,Linen,Shoes
+69,Female,Clothing,Maryland,Winter,4,11,Environment Friendly,Spandex,T-shirt
+25,Male,Footwear,Pennsylvania,Summer,3.2,28,Extremely Harmful,Cotton,Sneakers
+29,Male,Accessories,Iowa,Spring,4.4,24,Extremely Harmful,Polyester,Hat
+46,Male,Clothing,Pennsylvania,Spring,3.8,25,Extremely Harmful,Linen,Skirt
+37,Female,Clothing,Delaware,Summer,3.6,27,Moderately Harmful,Nylon,Sweater
+20,Female,Footwear,Oregon,Summer,3.3,49,Environment Friendly,Acrylic,Sandals
+40,Male,Clothing,Oregon,Winter,3.4,45,Environment Friendly,Acrylic,Dress
+60,Male,Clothing,Utah,Fall,3.5,26,Extremely Harmful,Acrylic,Sweater
+26,Female,Outerwear,North Dakota,Summer,3.6,4,Extremely Harmful,Silk,Jacket
+29,Male,Accessories,Florida,Winter,3.2,3,Moderately Harmful,Wool,Gloves
+66,Female,Accessories,Maryland,Fall,3.7,45,Environment Friendly,Spandex,Handbag
+66,Male,Clothing,Minnesota,Spring,4.5,21,Moderately Harmful,Nylon,Dress
+56,Male,Clothing,Montana,Winter,4.6,50,Extremely Harmful,Acrylic,Pants
+69,Female,Clothing,Rhode Island,Winter,4.1,19,Moderately Harmful,Silk,Jeans
+38,Female,Clothing,Massachusetts,Spring,3.4,6,Extremely Harmful,Acrylic,Pants
+42,Female,Clothing,Vermont,Spring,3.7,50,Moderately Harmful,Nylon,Dress
+30,Female,Clothing,New Jersey,Summer,3.3,17,Moderately Harmful,Acrylic,Pants
+66,Female,Accessories,Wisconsin,Spring,4.5,24,Environment Friendly,Nylon,Jewelry
+36,Male,Accessories,California,Fall,3.3,46,Environment Friendly,Silk,Handbag
+58,Male,Clothing,West Virginia,Fall,4.3,42,Extremely Harmful,Acrylic,Sweater
+45,Male,Accessories,South Dakota,Winter,2.5,10,Moderately Harmful,Spandex,Backpack
+47,Male,Clothing,Maine,Spring,2.6,1,Environment Friendly,Acrylic,Shorts
+66,Female,Accessories,Kansas,Summer,4.9,28,Environment Friendly,Nylon,Jewelry
+41,Female,Footwear,Vermont,Summer,4.7,48,Environment Friendly,Cotton,Sneakers
+41,Male,Accessories,Tennessee,Winter,3,47,Environment Friendly,Linen,Belt
+66,Male,Clothing,Tennessee,Winter,3.5,29,Extremely Harmful,Nylon,Hoodie
+37,Male,Clothing,Wyoming,Summer,4.8,37,Extremely Harmful,Polyester,Shirt
+70,Male,Clothing,Vermont,Winter,4.3,38,Extremely Harmful,Wool,Pants
+62,Male,Accessories,New Jersey,Fall,3.2,48,Moderately Harmful,Wool,Scarf
+61,Female,Outerwear,Iowa,Summer,3.1,36,Extremely Harmful,Spandex,Coat
+48,Male,Outerwear,Florida,Fall,2.8,9,Extremely Harmful,Linen,Coat
+70,Male,Clothing,Nevada,Summer,2.9,34,Environment Friendly,Linen,Socks
+46,Male,Clothing,North Dakota,Winter,3.7,43,Moderately Harmful,Nylon,Sweater
+31,Male,Clothing,Florida,Fall,3.3,46,Environment Friendly,Wool,Shirt
+19,Female,Clothing,New York,Winter,2.8,5,Extremely Harmful,Silk,Shirt
+39,Female,Clothing,Alaska,Winter,4.5,15,Moderately Harmful,Wool,Sweater
+41,Female,Clothing,Kansas,Fall,2.6,30,Extremely Harmful,Linen,Blouse
+20,Male,Clothing,Oregon,Spring,3.7,44,Extremely Harmful,Nylon,Sweater
+36,Female,Accessories,Rhode Island,Fall,4.4,16,Environment Friendly,Cotton,Hat
+32,Female,Clothing,New Mexico,Winter,4.3,16,Extremely Harmful,Nylon,Sweater
+69,Male,Clothing,Massachusetts,Winter,3.5,16,Environment Friendly,Nylon,Hoodie
+40,Female,Clothing,Pennsylvania,Spring,3.8,21,Extremely Harmful,Acrylic,Shorts
+40,Male,Clothing,New Jersey,Summer,3.5,39,Moderately Harmful,Linen,Shorts
+20,Male,Accessories,Utah,Summer,4.6,40,Environment Friendly,Cotton,Hat
+64,Male,Outerwear,Kentucky,Spring,2.6,48,Extremely Harmful,Linen,Coat
+27,Male,Footwear,Nebraska,Summer,4.4,26,Extremely Harmful,Cotton,Sandals
+24,Male,Clothing,Virginia,Winter,4,46,Environment Friendly,Acrylic,Skirt
+48,Female,Footwear,Wyoming,Winter,4.4,27,Moderately Harmful,Spandex,Shoes
+49,Male,Clothing,New Mexico,Spring,4.7,5,Extremely Harmful,Linen,Jeans
+36,Male,Footwear,Oregon,Fall,3.9,43,Environment Friendly,Acrylic,Sandals
+56,Male,Clothing,South Carolina,Fall,2.7,17,Moderately Harmful,Cotton,Blouse
+37,Male,Accessories,Arizona,Winter,3.7,3,Extremely Harmful,Spandex,Hat
+42,Female,Clothing,Kentucky,Spring,2.6,47,Environment Friendly,Acrylic,Sweater
+28,Male,Clothing,New York,Winter,3.9,24,Moderately Harmful,Silk,Skirt
+27,Male,Clothing,Texas,Fall,4.9,12,Environment Friendly,Spandex,Jeans
+63,Male,Footwear,Missouri,Fall,4.1,35,Moderately Harmful,Wool,Sneakers
+58,Female,Accessories,Pennsylvania,Fall,3,42,Extremely Harmful,Polyester,Jewelry
+37,Female,Accessories,Oregon,Fall,4.1,1,Moderately Harmful,Nylon,Jewelry
+56,Female,Clothing,Nevada,Spring,3.8,27,Environment Friendly,Spandex,Pants
+18,Female,Accessories,Arkansas,Spring,4,16,Moderately Harmful,Nylon,Belt
+48,Male,Accessories,Minnesota,Summer,3.6,36,Environment Friendly,Cotton,Hat
+31,Male,Footwear,Georgia,Winter,3,30,Moderately Harmful,Spandex,Sneakers
+51,Male,Clothing,Rhode Island,Summer,3,18,Extremely Harmful,Cotton,Pants
+65,Male,Clothing,Nevada,Spring,2.6,45,Extremely Harmful,Silk,T-shirt
+53,Male,Footwear,Texas,Fall,3.4,1,Environment Friendly,Acrylic,Sneakers
+55,Male,Clothing,Florida,Winter,3.1,42,Extremely Harmful,Polyester,Shorts
+62,Male,Footwear,North Dakota,Summer,3,7,Extremely Harmful,Nylon,Shoes
+55,Male,Accessories,West Virginia,Summer,3.7,50,Extremely Harmful,Silk,Gloves
+64,Male,Clothing,Nebraska,Spring,3.5,37,Environment Friendly,Wool,Socks
+52,Female,Clothing,Tennessee,Spring,2.8,18,Extremely Harmful,Linen,Dress
+24,Male,Accessories,Oklahoma,Spring,4.5,29,Moderately Harmful,Linen,Handbag
+38,Female,Accessories,Wisconsin,Summer,3.3,45,Moderately Harmful,Wool,Belt
+59,Female,Accessories,Oregon,Winter,3.4,13,Extremely Harmful,Silk,Scarf
+27,Female,Footwear,North Carolina,Winter,3.2,47,Moderately Harmful,Spandex,Sneakers
+24,Female,Clothing,Pennsylvania,Summer,3.7,7,Extremely Harmful,Acrylic,Sweater
+23,Female,Outerwear,North Dakota,Summer,4.6,11,Environment Friendly,Spandex,Coat
+69,Male,Accessories,Ohio,Spring,5,39,Environment Friendly,Linen,Jewelry
+59,Female,Accessories,Oklahoma,Summer,4.4,6,Extremely Harmful,Spandex,Sunglasses
+51,Male,Footwear,South Carolina,Fall,4.9,2,Moderately Harmful,Linen,Shoes
+63,Female,Accessories,Maine,Spring,4.1,39,Moderately Harmful,Acrylic,Scarf
+54,Female,Clothing,Nevada,Winter,4.9,23,Environment Friendly,Silk,Dress
+32,Male,Clothing,Montana,Fall,4.7,46,Environment Friendly,Spandex,T-shirt
+39,Female,Accessories,New Hampshire,Fall,3,19,Environment Friendly,Nylon,Backpack
+66,Female,Accessories,Maine,Winter,3.4,3,Environment Friendly,Spandex,Jewelry
+28,Female,Clothing,California,Winter,3.2,47,Environment Friendly,Acrylic,Jeans
+50,Male,Accessories,West Virginia,Fall,2.9,6,Moderately Harmful,Cotton,Sunglasses
+70,Female,Clothing,California,Fall,4.5,6,Extremely Harmful,Linen,Sweater
+67,Male,Clothing,West Virginia,Fall,2.7,12,Moderately Harmful,Linen,Shorts
+64,Male,Accessories,Louisiana,Spring,3.4,40,Moderately Harmful,Spandex,Jewelry
+45,Female,Outerwear,Georgia,Summer,4.6,38,Moderately Harmful,Polyester,Coat
+22,Female,Accessories,Washington,Summer,2.7,10,Moderately Harmful,Wool,Handbag
+27,Female,Footwear,Virginia,Spring,4.2,28,Moderately Harmful,Nylon,Boots
+25,Female,Accessories,Indiana,Winter,3.2,19,Environment Friendly,Spandex,Gloves
+37,Male,Clothing,Minnesota,Spring,4.8,25,Moderately Harmful,Acrylic,Sweater
+26,Female,Clothing,Idaho,Spring,3.3,38,Environment Friendly,Spandex,T-shirt
+33,Male,Footwear,Vermont,Fall,4.2,6,Environment Friendly,Linen,Shoes
+43,Female,Accessories,North Dakota,Spring,4.8,7,Extremely Harmful,Polyester,Scarf
+37,Female,Footwear,Rhode Island,Winter,4.9,2,Moderately Harmful,Acrylic,Sneakers
+46,Male,Clothing,South Carolina,Fall,3.9,24,Moderately Harmful,Silk,Dress
+22,Male,Accessories,Mississippi,Fall,3,26,Moderately Harmful,Nylon,Belt
+20,Female,Footwear,Montana,Winter,4.6,25,Extremely Harmful,Nylon,Boots
+60,Female,Accessories,Idaho,Fall,3.5,10,Extremely Harmful,Spandex,Scarf
+39,Female,Footwear,Utah,Winter,4.8,14,Environment Friendly,Acrylic,Boots
+43,Female,Clothing,Oklahoma,Fall,4.8,21,Environment Friendly,Polyester,T-shirt
+31,Female,Accessories,California,Fall,3,26,Moderately Harmful,Spandex,Backpack
+19,Male,Footwear,Nevada,Winter,4.5,12,Environment Friendly,Polyester,Sneakers
+35,Male,Clothing,Delaware,Spring,4.8,11,Moderately Harmful,Cotton,T-shirt
+41,Female,Clothing,South Carolina,Summer,3.8,15,Moderately Harmful,Wool,Jeans
+52,Male,Accessories,Maryland,Spring,4.6,13,Environment Friendly,Spandex,Gloves
+45,Female,Clothing,North Carolina,Spring,3.1,5,Extremely Harmful,Acrylic,Hoodie
+34,Male,Footwear,Alabama,Spring,3.4,36,Moderately Harmful,Polyester,Sneakers
+35,Female,Clothing,Minnesota,Winter,3.3,32,Moderately Harmful,Spandex,Shorts
+29,Male,Clothing,Virginia,Spring,4.8,1,Moderately Harmful,Spandex,Sweater
+59,Male,Clothing,Michigan,Summer,2.8,15,Extremely Harmful,Spandex,Jeans
+24,Female,Outerwear,Maine,Summer,3.1,3,Moderately Harmful,Polyester,Jacket
+70,Male,Accessories,Nevada,Summer,4.6,48,Environment Friendly,Polyester,Jewelry
+29,Female,Accessories,Wyoming,Winter,2.6,30,Moderately Harmful,Cotton,Backpack
+67,Male,Outerwear,Connecticut,Winter,2.6,40,Extremely Harmful,Acrylic,Coat
+36,Male,Accessories,Oregon,Spring,3.8,24,Environment Friendly,Spandex,Belt
+23,Male,Footwear,Mississippi,Fall,4.5,48,Environment Friendly,Cotton,Sandals
+18,Female,Clothing,Illinois,Spring,3,27,Extremely Harmful,Silk,Sweater
+53,Male,Clothing,Utah,Winter,3.5,14,Environment Friendly,Cotton,Shorts
+32,Female,Clothing,North Carolina,Spring,3.8,18,Environment Friendly,Cotton,Socks
+38,Male,Clothing,Kentucky,Winter,3.5,48,Moderately Harmful,Acrylic,Shirt
+47,Female,Clothing,Minnesota,Fall,3.1,32,Environment Friendly,Silk,Pants
+46,Female,Accessories,New York,Spring,3,21,Moderately Harmful,Cotton,Scarf
+66,Male,Clothing,Illinois,Winter,4.3,42,Environment Friendly,Polyester,Sweater
+40,Male,Clothing,North Dakota,Winter,3.3,4,Extremely Harmful,Wool,Jeans
+43,Female,Clothing,Louisiana,Winter,4.7,19,Moderately Harmful,Spandex,Pants
+58,Female,Accessories,Illinois,Winter,4.5,6,Moderately Harmful,Acrylic,Backpack
+21,Female,Outerwear,Wyoming,Winter,2.9,2,Moderately Harmful,Linen,Coat
+42,Male,Footwear,Washington,Winter,4.1,21,Extremely Harmful,Silk,Sandals
+24,Male,Clothing,Texas,Summer,3.5,40,Moderately Harmful,Spandex,Shirt
+43,Male,Accessories,New Hampshire,Winter,3.4,33,Moderately Harmful,Nylon,Hat
+47,Male,Clothing,Indiana,Fall,3.3,26,Extremely Harmful,Cotton,Shirt
+49,Male,Clothing,Alabama,Fall,3.2,23,Moderately Harmful,Linen,Skirt
+50,Male,Footwear,Oklahoma,Spring,4,39,Extremely Harmful,Linen,Shoes
+51,Female,Outerwear,Montana,Winter,3.6,42,Moderately Harmful,Silk,Coat
+40,Male,Clothing,Tennessee,Summer,4.6,41,Environment Friendly,Linen,Pants
+45,Male,Accessories,New Mexico,Summer,2.6,41,Extremely Harmful,Acrylic,Jewelry
+52,Male,Accessories,Iowa,Winter,4.3,12,Environment Friendly,Linen,Belt
+62,Female,Outerwear,Idaho,Summer,3.4,31,Moderately Harmful,Linen,Jacket
+20,Female,Clothing,Oklahoma,Winter,3.5,34,Moderately Harmful,Cotton,Shirt
+43,Female,Clothing,Florida,Winter,4.2,32,Extremely Harmful,Polyester,Hoodie
+29,Male,Accessories,Michigan,Fall,3.5,31,Moderately Harmful,Cotton,Sunglasses
+22,Male,Accessories,Hawaii,Summer,3.6,24,Environment Friendly,Linen,Sunglasses
+48,Female,Clothing,California,Summer,4.3,31,Extremely Harmful,Spandex,Dress
+42,Male,Footwear,Iowa,Fall,4.9,18,Extremely Harmful,Acrylic,Boots
+19,Female,Clothing,West Virginia,Summer,4.1,15,Environment Friendly,Polyester,Shirt
+60,Female,Clothing,Washington,Spring,3.6,7,Moderately Harmful,Spandex,Shorts
+32,Male,Accessories,Missouri,Summer,3.4,35,Environment Friendly,Spandex,Gloves
+26,Male,Accessories,New York,Summer,2.9,35,Environment Friendly,Acrylic,Jewelry
+25,Female,Footwear,Connecticut,Summer,2.7,19,Environment Friendly,Wool,Boots
+66,Female,Accessories,Virginia,Summer,4.3,26,Moderately Harmful,Cotton,Jewelry
+45,Female,Clothing,Missouri,Summer,3.3,39,Environment Friendly,Nylon,Pants
+54,Female,Accessories,Nebraska,Winter,2.8,22,Extremely Harmful,Cotton,Jewelry
+37,Male,Outerwear,New Jersey,Summer,3.2,14,Extremely Harmful,Silk,Jacket
+54,Male,Clothing,Utah,Fall,3.6,50,Environment Friendly,Wool,Blouse
+50,Female,Clothing,North Carolina,Fall,4,33,Extremely Harmful,Linen,Blouse
+25,Female,Accessories,Rhode Island,Spring,4.9,48,Environment Friendly,Wool,Gloves
+47,Male,Clothing,Arkansas,Winter,4,48,Extremely Harmful,Cotton,Shorts
+63,Male,Accessories,Maryland,Winter,3.8,27,Moderately Harmful,Nylon,Hat
+64,Male,Footwear,South Carolina,Summer,3.7,27,Moderately Harmful,Wool,Shoes
+18,Female,Footwear,Ohio,Winter,3.9,20,Environment Friendly,Nylon,Boots
+59,Female,Outerwear,Illinois,Fall,3.3,48,Moderately Harmful,Acrylic,Jacket
+37,Male,Accessories,Georgia,Summer,2.7,29,Environment Friendly,Spandex,Jewelry
+23,Female,Accessories,Alabama,Winter,4.7,45,Moderately Harmful,Polyester,Sunglasses
+54,Female,Clothing,Oklahoma,Summer,2.8,25,Moderately Harmful,Nylon,Skirt
+38,Female,Clothing,Vermont,Winter,4.6,25,Extremely Harmful,Linen,Jeans
+19,Female,Accessories,Nebraska,Spring,4.5,37,Extremely Harmful,Wool,Backpack
+34,Female,Accessories,Georgia,Fall,5,16,Extremely Harmful,Cotton,Backpack
+21,Male,Clothing,Alabama,Fall,4.1,30,Moderately Harmful,Acrylic,Shorts
+50,Female,Clothing,Minnesota,Summer,4.6,6,Moderately Harmful,Spandex,Dress
+55,Female,Accessories,Missouri,Winter,4.9,36,Extremely Harmful,Spandex,Scarf
+20,Female,Clothing,Georgia,Winter,3.9,3,Moderately Harmful,Acrylic,Jeans
+34,Male,Outerwear,West Virginia,Spring,3.9,29,Extremely Harmful,Wool,Coat
+62,Female,Clothing,Arkansas,Summer,2.6,15,Moderately Harmful,Spandex,Sweater
+21,Female,Footwear,Ohio,Summer,2.7,18,Moderately Harmful,Polyester,Sneakers
+21,Male,Accessories,Connecticut,Spring,3.5,2,Moderately Harmful,Acrylic,Scarf
+42,Female,Clothing,North Dakota,Summer,3.7,49,Environment Friendly,Spandex,Sweater
+35,Male,Accessories,Kansas,Winter,3.2,48,Extremely Harmful,Cotton,Jewelry
+39,Female,Accessories,Iowa,Winter,3.3,43,Extremely Harmful,Silk,Handbag
+68,Female,Clothing,Vermont,Summer,4.8,30,Moderately Harmful,Spandex,Hoodie
+46,Female,Accessories,Wisconsin,Fall,3.2,10,Moderately Harmful,Silk,Hat
+41,Male,Accessories,Connecticut,Winter,2.5,11,Extremely Harmful,Linen,Belt
+23,Male,Clothing,Oklahoma,Fall,3.9,12,Extremely Harmful,Spandex,Hoodie
+68,Male,Accessories,Missouri,Summer,4.7,28,Moderately Harmful,Silk,Hat
+48,Male,Footwear,Tennessee,Spring,2.6,36,Extremely Harmful,Wool,Shoes
+38,Female,Footwear,New Mexico,Fall,2.8,37,Moderately Harmful,Silk,Sandals
+41,Male,Outerwear,Iowa,Winter,4.4,22,Moderately Harmful,Linen,Jacket
+58,Male,Clothing,Maine,Spring,4.6,32,Environment Friendly,Nylon,Sweater
+49,Female,Clothing,South Dakota,Summer,3.2,40,Environment Friendly,Polyester,Socks
+57,Female,Footwear,Colorado,Winter,4.2,47,Moderately Harmful,Spandex,Sneakers
+49,Female,Outerwear,Vermont,Summer,3.7,24,Moderately Harmful,Cotton,Coat
+50,Male,Clothing,Michigan,Fall,3.9,11,Extremely Harmful,Acrylic,Shirt
+28,Male,Accessories,Nevada,Summer,4.7,19,Moderately Harmful,Polyester,Backpack
+38,Female,Footwear,Indiana,Winter,4.5,42,Moderately Harmful,Silk,Boots
+33,Male,Accessories,Michigan,Fall,3.3,6,Environment Friendly,Wool,Handbag
+30,Male,Clothing,California,Fall,3.3,31,Environment Friendly,Silk,Dress
+43,Female,Footwear,Oklahoma,Winter,4.6,31,Environment Friendly,Acrylic,Sneakers
+43,Female,Footwear,Iowa,Spring,3.6,27,Moderately Harmful,Linen,Boots
