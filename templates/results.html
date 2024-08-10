@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Results</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        .environment-friendly {
+            color: green;
+        }
+        .moderately-harmful {
+            color: orange;
+        }
+        .extremely-harmful {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1>Top Items</h1>
+    <ul>
+        {% set top_items = top_10.head(6) %}
+        {% for index, row in top_items.iterrows() %}
+            <li class="{% if row['Environmental Impact'] == 'Extremely Harmful' %}extremely-harmful{% elif row['Environmental Impact'] == 'Moderately Harmful' %}moderately-harmful{% else %}environment-friendly{% endif %}">
+                {{ row['Item Purchased'] }} - {{ row['Review Rating'] }} - {{ row['Previous Purchases'] }} - {{ row['Environmental Impact'] }}
+            </li>
+        {% endfor %}
+    </ul>
+
+    <h1>Bottom Items</h1>
+    <ul>
+        {% set bottom_items = bottom_10.tail(6) %}
+        {% for index, row in bottom_items.iterrows() %}
+            <li class="{% if row['Environmental Impact'] == 'Extremely Harmful' %}extremely-harmful{% elif row['Environmental Impact'] == 'Moderately Harmful' %}moderately-harmful{% else %}environment-friendly{% endif %}">
+                {{ row['Item Purchased'] }} - {{ row['Review Rating'] }} - {{ row['Previous Purchases'] }} - {{ row['Environmental Impact'] }}
+            </li>
+        {% endfor %}
+    </ul>
+
+    <a href="{{ url_for('index') }}">Go Back</a>
+</body>
+</html>
