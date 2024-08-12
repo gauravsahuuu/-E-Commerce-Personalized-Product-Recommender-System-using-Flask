@@ -1,0 +1,500 @@
+Age,Gender,Category,Location,Season,Review Rating,Previous Purchases,Environmental Impact,Textile Material,Item Purchased
+55,Male,Outerwear,Hyderabad,Winter,3.1,14,Moderately Harmful,Nylon,Hoodie
+19,Female,Accessories,Delhi,Winter,3.1,2,Extremely Harmful,Wool,Sari
+50,Male,Footwear,Mumbai,Spring,3.1,23,Moderately Harmful,Spandex,Cardigan
+21,Male,Accessories,Mumbai,Spring,3.5,49,Environment Friendly,Nylon,Dress Shoes
+45,Female,Accessories,Kolkata,Spring,2.7,31,Moderately Harmful,Wool,Ankle Boots
+46,Female,Outerwear,Kolkata,Summer,2.9,14,Moderately Harmful,Wool,Trench Coat
+63,Female,Outerwear,Bengaluru,Fall,3.2,49,Extremely Harmful,Spandex,Rain Boots
+27,Female,Footwear,Bengaluru,Winter,3.2,19,Moderately Harmful,Wool,Kimono
+26,Female,Accessories,Bengaluru,Summer,2.6,8,Extremely Harmful,Acrylic,Flats
+57,Female,Accessories,Delhi,Spring,4.8,4,Extremely Harmful,Wool,Hoodie
+53,Male,Accessories,Delhi,Fall,4.1,26,Moderately Harmful,Linen,Chinos
+30,Male,Footwear,Kolkata,Winter,4.9,10,Environment Friendly,Silk,Raincoat
+61,Male,Accessories,Kolkata,Winter,4.5,37,Moderately Harmful,Wool,Brooch
+65,Female,Accessories,Hyderabad,Spring,4.7,31,Environment Friendly,Linen,Heels
+64,Female,Clothing,Hyderabad,Winter,4.7,34,Moderately Harmful,Polyester,Handbag
+64,Female,Footwear,Mumbai,Winter,2.8,8,Environment Friendly,Nylon,Slippers
+25,Male,Clothing,Delhi,Spring,4.1,44,Environment Friendly,Nylon,Platform Shoes
+53,Female,Outerwear,Kolkata,Winter,4.7,36,Moderately Harmful,Spandex,Espadrilles
+52,Female,Footwear,Mumbai,Summer,4.6,17,Extremely Harmful,Linen,Flats
+66,Male,Accessories,Delhi,Summer,3.3,46,Environment Friendly,Spandex,Gloves
+21,Female,Outerwear,Hyderabad,Winter,2.8,50,Environment Friendly,Nylon,Robe
+31,Female,Clothing,Mumbai,Winter,4.1,22,Moderately Harmful,Polyester,Blouse
+56,Female,Clothing,Mumbai,Summer,3.2,32,Extremely Harmful,Spandex,Slippers
+31,Male,Outerwear,Mumbai,Winter,4.4,40,Environment Friendly,Spandex,Cargo Shorts
+18,Male,Footwear,Hyderabad,Fall,2.9,16,Extremely Harmful,Wool,Platform Shoes
+18,Female,Outerwear,Delhi,Summer,3.6,14,Moderately Harmful,Silk,Sandals
+38,Male,Footwear,Mumbai,Spring,3.6,13,Moderately Harmful,Linen,Polo
+56,Male,Outerwear,Kolkata,Summer,5,7,Extremely Harmful,Polyester,Platform Shoes
+54,Male,Accessories,Delhi,Fall,4.4,41,Moderately Harmful,Spandex,Polo
+31,Male,Clothing,Delhi,Fall,4.1,14,Environment Friendly,Wool,Jumpsuit
+57,Male,Outerwear,Mumbai,Winter,4.7,16,Moderately Harmful,Cotton,Sandals
+33,Female,Accessories,Hyderabad,Winter,4.7,45,Environment Friendly,Spandex,Mules
+36,Female,Accessories,Kolkata,Summer,4.9,37,Moderately Harmful,Wool,Ankle Boots
+54,Female,Accessories,Hyderabad,Summer,3.3,45,Moderately Harmful,Nylon,Puffer Jacket
+36,Female,Outerwear,Bengaluru,Spring,4.6,38,Extremely Harmful,Cotton,Socks
+54,Female,Footwear,Kolkata,Summer,4,48,Moderately Harmful,Acrylic,Peacoat
+35,Male,Outerwear,Kolkata,Winter,4.6,44,Moderately Harmful,Linen,Tie
+35,Male,Footwear,Delhi,Summer,2.8,10,Environment Friendly,Linen,Platform Shoes
+29,Male,Accessories,Delhi,Winter,3.7,44,Environment Friendly,Silk,Rain Boots
+70,Female,Footwear,Mumbai,Summer,4.2,18,Environment Friendly,Silk,Blouse
+69,Male,Clothing,Delhi,Winter,4.6,31,Extremely Harmful,Silk,Brooch
+67,Female,Footwear,Kolkata,Spring,4.5,40,Extremely Harmful,Polyester,Running Shoes
+20,Male,Footwear,Mumbai,Spring,4.1,15,Extremely Harmful,Silk,Espadrilles
+25,Female,Clothing,Kolkata,Fall,3.7,19,Environment Friendly,Spandex,Earrings
+39,Male,Clothing,Mumbai,Summer,4.6,45,Extremely Harmful,Acrylic,Mittens
+50,Female,Accessories,Delhi,Fall,2.9,25,Extremely Harmful,Cotton,Ankle Boots
+57,Male,Outerwear,Mumbai,Summer,2.9,45,Environment Friendly,Linen,Hoodie
+55,Female,Accessories,Kolkata,Winter,4.5,36,Extremely Harmful,Linen,Backpack
+42,Female,Outerwear,Delhi,Summer,2.7,38,Moderately Harmful,Spandex,Puffer Jacket
+68,Male,Accessories,Delhi,Spring,4.6,34,Extremely Harmful,Cotton,Cargo Pants
+49,Female,Outerwear,Bengaluru,Spring,3.7,39,Extremely Harmful,Polyester,Sweater
+59,Female,Clothing,Delhi,Winter,4.7,7,Moderately Harmful,Wool,Raincoat
+42,Male,Footwear,Mumbai,Summer,2.6,26,Moderately Harmful,Acrylic,Pants
+29,Male,Clothing,Bengaluru,Winter,3.9,35,Moderately Harmful,Polyester,Skirt
+47,Male,Footwear,Delhi,Summer,4.2,35,Extremely Harmful,Linen,Tennis Shoes
+40,Female,Outerwear,Mumbai,Winter,3,49,Extremely Harmful,Polyester,Scarf
+41,Male,Clothing,Bengaluru,Summer,4.7,46,Moderately Harmful,Silk,Sunglasses
+21,Female,Accessories,Delhi,Summer,4.4,17,Moderately Harmful,Wool,Polo
+69,Female,Clothing,Kolkata,Summer,4.2,29,Extremely Harmful,Nylon,Espadrilles
+63,Male,Outerwear,Mumbai,Spring,4.6,4,Extremely Harmful,Nylon,Cardigan
+50,Female,Accessories,Hyderabad,Summer,4,17,Extremely Harmful,Polyester,Espadrilles
+55,Female,Outerwear,Delhi,Winter,4.7,21,Moderately Harmful,Wool,Robe
+30,Male,Footwear,Mumbai,Spring,3.8,31,Moderately Harmful,Wool,Heels
+33,Female,Outerwear,Kolkata,Winter,2.7,43,Moderately Harmful,Nylon,Running Shoes
+65,Male,Clothing,Kolkata,Fall,4.8,18,Moderately Harmful,Nylon,Handbag
+65,Male,Footwear,Mumbai,Spring,4.8,44,Moderately Harmful,Nylon,Sneakers
+31,Female,Outerwear,Hyderabad,Winter,4.7,3,Extremely Harmful,Linen,Cargo Shorts
+45,Male,Footwear,Kolkata,Winter,4.4,49,Extremely Harmful,Cotton,Sandals
+57,Female,Accessories,Hyderabad,Summer,3.9,21,Environment Friendly,Polyester,Chelsea Boots
+48,Male,Footwear,Kolkata,Summer,4.4,5,Environment Friendly,Linen,Bracelet
+22,Male,Clothing,Hyderabad,Fall,4.2,32,Moderately Harmful,Polyester,Tennis Shoes
+36,Female,Footwear,Hyderabad,Summer,2.9,34,Environment Friendly,Cotton,Vest
+18,Male,Footwear,Kolkata,Winter,2.9,21,Environment Friendly,Linen,Sweater
+48,Female,Outerwear,Delhi,Spring,2.7,43,Extremely Harmful,Linen,Mules
+49,Female,Outerwear,Delhi,Spring,4.5,3,Extremely Harmful,Polyester,Backpack
+64,Female,Footwear,Delhi,Summer,2.7,21,Environment Friendly,Nylon,Dress
+50,Female,Clothing,Kolkata,Summer,4.2,32,Environment Friendly,Cotton,Tie
+22,Male,Outerwear,Bengaluru,Summer,3.3,36,Moderately Harmful,Wool,Espadrilles
+50,Female,Clothing,Kolkata,Spring,4.7,50,Environment Friendly,Linen,Flats
+38,Male,Outerwear,Hyderabad,Winter,2.6,43,Environment Friendly,Wool,Chinos
+19,Male,Accessories,Mumbai,Summer,3.3,24,Moderately Harmful,Spandex,Ring
+67,Male,Footwear,Delhi,Summer,2.6,36,Moderately Harmful,Silk,Tennis Shoes
+19,Male,Clothing,Kolkata,Spring,4,21,Environment Friendly,Nylon,Belt
+36,Male,Clothing,Hyderabad,Summer,4.1,34,Extremely Harmful,Linen,Running Shoes
+52,Male,Outerwear,Delhi,Spring,4.4,42,Environment Friendly,Nylon,Dress Shoes
+53,Female,Clothing,Delhi,Winter,4.5,2,Extremely Harmful,Linen,Ankle Strap Sandals
+24,Male,Clothing,Hyderabad,Spring,3.7,47,Extremely Harmful,Polyester,Belt
+52,Male,Footwear,Bengaluru,Fall,3.7,44,Extremely Harmful,Nylon,Peacoat
+33,Female,Outerwear,Delhi,Fall,3.5,35,Environment Friendly,Linen,Poncho
+47,Female,Accessories,Mumbai,Fall,3.6,15,Environment Friendly,Acrylic,Cargo Shorts
+25,Female,Outerwear,Bengaluru,Summer,2.9,29,Extremely Harmful,Linen,Ankle Strap Sandals
+44,Female,Accessories,Hyderabad,Winter,4.6,18,Environment Friendly,Cotton,Shirt
+61,Female,Outerwear,Hyderabad,Winter,4.4,13,Moderately Harmful,Polyester,Belt
+37,Female,Outerwear,Hyderabad,Fall,4.5,46,Extremely Harmful,Wool,Chelsea Boots
+58,Male,Outerwear,Kolkata,Spring,4.6,28,Extremely Harmful,Spandex,Blazer
+37,Female,Clothing,Hyderabad,Fall,3.8,48,Extremely Harmful,Nylon,Cloak
+32,Female,Outerwear,Kolkata,Spring,3.6,43,Moderately Harmful,Silk,Shorts
+21,Female,Outerwear,Bengaluru,Winter,4.8,37,Moderately Harmful,Acrylic,Hoodie
+20,Male,Clothing,Hyderabad,Spring,2.6,20,Moderately Harmful,Acrylic,Raincoat
+26,Male,Accessories,Bengaluru,Summer,3.7,33,Moderately Harmful,Linen,Coat
+62,Female,Footwear,Delhi,Fall,2.7,31,Environment Friendly,Wool,Pants
+27,Female,Clothing,Delhi,Spring,4.6,50,Extremely Harmful,Cotton,Loafers
+51,Male,Accessories,Hyderabad,Winter,4.8,35,Moderately Harmful,Spandex,Mittens
+54,Male,Footwear,Kolkata,Winter,4,22,Extremely Harmful,Spandex,Ankle Boots
+55,Female,Footwear,Kolkata,Spring,4.4,1,Environment Friendly,Linen,Leggings
+69,Male,Outerwear,Bengaluru,Fall,3.6,4,Environment Friendly,Wool,Bow Tie
+64,Female,Clothing,Mumbai,Summer,3.7,31,Environment Friendly,Spandex,Tracksuit
+28,Female,Outerwear,Hyderabad,Winter,3.1,46,Environment Friendly,Nylon,Poncho
+70,Female,Footwear,Delhi,Spring,3.4,32,Moderately Harmful,Wool,Sandals
+58,Male,Outerwear,Kolkata,Spring,2.6,43,Moderately Harmful,Spandex,Cardigan
+56,Female,Clothing,Mumbai,Summer,4,26,Moderately Harmful,Cotton,Jacket
+26,Female,Outerwear,Delhi,Summer,5,9,Moderately Harmful,Polyester,Cargo Pants
+37,Male,Outerwear,Delhi,Spring,4.3,28,Environment Friendly,Spandex,Gloves
+44,Female,Accessories,Hyderabad,Winter,3.1,20,Environment Friendly,Wool,Flip-flops
+70,Female,Clothing,Hyderabad,Summer,3.7,9,Extremely Harmful,Acrylic,Sweater
+53,Female,Clothing,Kolkata,Spring,3.8,48,Moderately Harmful,Silk,Chelsea Boots
+55,Female,Outerwear,Hyderabad,Spring,3.4,12,Moderately Harmful,Spandex,Puffer Jacket
+50,Female,Accessories,Kolkata,Summer,4.6,29,Moderately Harmful,Wool,Platform Shoes
+50,Male,Accessories,Kolkata,Fall,4.8,27,Moderately Harmful,Nylon,Puffer Jacket
+38,Male,Accessories,Bengaluru,Fall,4.3,44,Extremely Harmful,Wool,T-Shirt
+64,Female,Outerwear,Bengaluru,Summer,4,32,Extremely Harmful,Wool,Mules
+19,Female,Footwear,Hyderabad,Winter,4.2,11,Environment Friendly,Wool,Robe
+40,Female,Clothing,Delhi,Spring,4.8,44,Extremely Harmful,Cotton,Vest
+57,Male,Clothing,Hyderabad,Fall,3.1,46,Extremely Harmful,Wool,Sandals
+44,Male,Clothing,Hyderabad,Spring,3.1,50,Extremely Harmful,Linen,Cardigan
+49,Male,Accessories,Delhi,Winter,3.6,45,Environment Friendly,Acrylic,Espadrilles
+43,Male,Footwear,Bengaluru,Spring,3.9,48,Moderately Harmful,Silk,Cap
+24,Male,Accessories,Delhi,Winter,4.8,26,Moderately Harmful,Silk,Sari
+20,Male,Clothing,Bengaluru,Spring,4.7,21,Moderately Harmful,Wool,Cardigan
+24,Female,Outerwear,Hyderabad,Summer,4.2,49,Environment Friendly,Nylon,Ring
+44,Female,Clothing,Mumbai,Fall,3.7,13,Extremely Harmful,Cotton,Heels
+28,Male,Footwear,Bengaluru,Summer,3.9,46,Environment Friendly,Acrylic,Sunglasses
+30,Male,Outerwear,Bengaluru,Fall,4.7,42,Moderately Harmful,Spandex,Watch
+52,Male,Outerwear,Bengaluru,Winter,2.5,25,Moderately Harmful,Acrylic,Dress Shoes
+43,Male,Footwear,Mumbai,Fall,4.9,25,Environment Friendly,Spandex,Skirt
+43,Male,Footwear,Hyderabad,Fall,4.1,12,Extremely Harmful,Cotton,Hoodie
+39,Male,Accessories,Delhi,Winter,3.3,4,Extremely Harmful,Cotton,Watch
+68,Female,Footwear,Delhi,Spring,4.7,38,Moderately Harmful,Linen,Vest
+68,Male,Accessories,Delhi,Winter,4.4,42,Environment Friendly,Polyester,Suitcase
+49,Male,Accessories,Hyderabad,Fall,3.8,30,Moderately Harmful,Wool,Cardigan
+63,Male,Accessories,Mumbai,Fall,3.9,50,Extremely Harmful,Wool,Ankle Boots
+56,Male,Accessories,Kolkata,Fall,4.9,45,Environment Friendly,Acrylic,Vest
+37,Female,Clothing,Delhi,Fall,3.1,33,Moderately Harmful,Spandex,Ankle Boots
+30,Male,Footwear,Mumbai,Fall,2.7,25,Moderately Harmful,Wool,Jacket
+19,Female,Footwear,Kolkata,Fall,3.2,25,Extremely Harmful,Cotton,Coat
+24,Female,Footwear,Hyderabad,Fall,4.5,44,Extremely Harmful,Cotton,Skirt
+52,Female,Accessories,Bengaluru,Fall,4,21,Extremely Harmful,Silk,Chinos
+63,Male,Clothing,Hyderabad,Summer,3.5,31,Environment Friendly,Linen,Tennis Shoes
+37,Female,Accessories,Kolkata,Fall,2.6,47,Moderately Harmful,Wool,Overalls
+38,Male,Accessories,Hyderabad,Summer,3.2,14,Moderately Harmful,Spandex,Blazer
+35,Female,Outerwear,Mumbai,Fall,4.9,17,Moderately Harmful,Spandex,Mules
+28,Female,Clothing,Delhi,Fall,4.5,3,Environment Friendly,Cotton,Socks
+30,Female,Accessories,Delhi,Summer,4.3,42,Extremely Harmful,Nylon,Shirt
+69,Male,Outerwear,Hyderabad,Winter,3.2,22,Environment Friendly,Nylon,Sari
+41,Male,Accessories,Delhi,Fall,3.6,21,Moderately Harmful,Polyester,Jumpsuit
+63,Male,Clothing,Hyderabad,Spring,4.3,21,Moderately Harmful,Cotton,Cargo Pants
+35,Female,Accessories,Bengaluru,Fall,4,40,Extremely Harmful,Silk,Overalls
+36,Female,Clothing,Bengaluru,Fall,3,1,Moderately Harmful,Polyester,Watch
+25,Female,Footwear,Hyderabad,Fall,4.1,50,Extremely Harmful,Silk,Espadrilles
+58,Female,Clothing,Hyderabad,Fall,3.8,39,Moderately Harmful,Nylon,Suitcase
+27,Male,Outerwear,Kolkata,Summer,4.6,34,Environment Friendly,Polyester,Tracksuit
+65,Male,Outerwear,Mumbai,Fall,3,29,Extremely Harmful,Silk,Chukka Boots
+54,Male,Accessories,Bengaluru,Summer,3,31,Moderately Harmful,Silk,Tennis Shoes
+54,Male,Accessories,Hyderabad,Summer,3.4,8,Moderately Harmful,Wool,Blouse
+59,Male,Clothing,Delhi,Spring,2.6,5,Moderately Harmful,Cotton,Sari
+42,Female,Footwear,Hyderabad,Winter,2.8,7,Extremely Harmful,Linen,Tennis Shoes
+46,Female,Outerwear,Delhi,Fall,4,30,Environment Friendly,Linen,Handbag
+33,Female,Footwear,Hyderabad,Fall,4,14,Environment Friendly,Spandex,Cap
+34,Female,Outerwear,Delhi,Summer,3,5,Moderately Harmful,Nylon,Suitcase
+27,Female,Outerwear,Mumbai,Summer,3.3,3,Extremely Harmful,Acrylic,Slip-ons
+52,Female,Clothing,Mumbai,Fall,2.6,46,Environment Friendly,Cotton,Vest
+29,Female,Footwear,Delhi,Summer,3.6,4,Extremely Harmful,Acrylic,Slip-ons
+54,Female,Accessories,Bengaluru,Summer,3.9,42,Environment Friendly,Polyester,Platform Shoes
+25,Male,Accessories,Delhi,Fall,3.4,30,Extremely Harmful,Nylon,Ankle Boots
+41,Female,Accessories,Delhi,Winter,3.5,37,Environment Friendly,Linen,Jumpsuit
+53,Male,Accessories,Delhi,Fall,2.8,2,Extremely Harmful,Linen,Tie
+53,Female,Outerwear,Bengaluru,Spring,2.7,30,Environment Friendly,Wool,Blouse
+21,Male,Accessories,Hyderabad,Fall,3.7,47,Extremely Harmful,Cotton,Blazer
+61,Female,Outerwear,Hyderabad,Fall,4.3,21,Extremely Harmful,Silk,Flats
+64,Male,Footwear,Mumbai,Fall,4.9,9,Moderately Harmful,Nylon,Coat
+51,Male,Footwear,Bengaluru,Fall,3.3,12,Extremely Harmful,Acrylic,Boots
+32,Male,Footwear,Kolkata,Summer,4.7,4,Moderately Harmful,Acrylic,Poncho
+38,Male,Footwear,Bengaluru,Summer,2.8,10,Extremely Harmful,Silk,Slippers
+58,Female,Clothing,Kolkata,Spring,3.6,26,Environment Friendly,Spandex,Pants
+32,Female,Accessories,Kolkata,Spring,3,40,Moderately Harmful,Silk,Scarf
+46,Male,Footwear,Kolkata,Summer,4.5,34,Extremely Harmful,Polyester,T-Shirt
+39,Male,Accessories,Bengaluru,Summer,2.9,31,Environment Friendly,Spandex,Cargo Shorts
+19,Male,Outerwear,Mumbai,Spring,3.3,1,Extremely Harmful,Nylon,Beanie
+50,Male,Outerwear,Hyderabad,Spring,3.1,5,Moderately Harmful,Cotton,Jeans
+36,Female,Outerwear,Bengaluru,Fall,4.4,4,Extremely Harmful,Polyester,Beanie
+65,Female,Clothing,Hyderabad,Fall,3,48,Environment Friendly,Nylon,Watch
+64,Male,Outerwear,Mumbai,Fall,3.9,29,Moderately Harmful,Spandex,Blazer
+46,Female,Footwear,Mumbai,Summer,2.9,12,Moderately Harmful,Wool,Tie
+36,Female,Footwear,Hyderabad,Fall,3,29,Extremely Harmful,Spandex,Handbag
+51,Female,Accessories,Delhi,Spring,3.1,15,Moderately Harmful,Spandex,Tracksuit
+51,Female,Accessories,Mumbai,Fall,4.3,34,Extremely Harmful,Acrylic,Beanie
+38,Male,Outerwear,Kolkata,Summer,3.9,41,Extremely Harmful,Linen,Raincoat
+59,Female,Clothing,Hyderabad,Fall,3.2,41,Extremely Harmful,Polyester,Turtleneck
+57,Male,Footwear,Mumbai,Winter,4.8,39,Extremely Harmful,Polyester,Dress Shoes
+54,Male,Outerwear,Mumbai,Summer,3.8,32,Extremely Harmful,Cotton,Sunglasses
+25,Male,Footwear,Bengaluru,Summer,3.3,29,Extremely Harmful,Spandex,Brooch
+69,Female,Accessories,Delhi,Fall,4.3,15,Extremely Harmful,Polyester,Mules
+57,Male,Outerwear,Hyderabad,Spring,2.7,33,Extremely Harmful,Acrylic,Tracksuit
+70,Male,Clothing,Bengaluru,Fall,3.2,18,Extremely Harmful,Cotton,Turtleneck
+24,Female,Accessories,Mumbai,Fall,4,35,Environment Friendly,Silk,Shorts
+67,Female,Clothing,Delhi,Winter,3,25,Environment Friendly,Spandex,Robe
+24,Male,Clothing,Bengaluru,Summer,4.2,6,Extremely Harmful,Polyester,Trench Coat
+62,Female,Footwear,Hyderabad,Summer,2.9,17,Extremely Harmful,Nylon,Sari
+57,Male,Footwear,Bengaluru,Spring,4.1,17,Environment Friendly,Acrylic,Blazer
+55,Male,Outerwear,Delhi,Winter,3.2,44,Extremely Harmful,Spandex,Parkas
+45,Female,Outerwear,Hyderabad,Fall,3,6,Extremely Harmful,Linen,Chinos
+69,Male,Outerwear,Kolkata,Fall,4.2,45,Extremely Harmful,Spandex,Sandals
+67,Male,Accessories,Hyderabad,Fall,4.2,7,Extremely Harmful,Silk,Hat
+30,Female,Accessories,Kolkata,Fall,4.4,11,Moderately Harmful,Polyester,Necklace
+24,Male,Footwear,Mumbai,Summer,4.2,41,Extremely Harmful,Nylon,Poncho
+62,Female,Clothing,Kolkata,Spring,2.8,24,Environment Friendly,Linen,Cloak
+43,Male,Outerwear,Kolkata,Spring,3.7,21,Environment Friendly,Acrylic,Jumpsuit
+35,Female,Footwear,Kolkata,Winter,3.5,24,Extremely Harmful,Cotton,Rain Boots
+28,Male,Accessories,Mumbai,Spring,2.9,8,Moderately Harmful,Cotton,Handbag
+32,Female,Accessories,Bengaluru,Spring,3,12,Extremely Harmful,Cotton,Earrings
+39,Female,Outerwear,Hyderabad,Spring,3.7,48,Moderately Harmful,Spandex,Tracksuit
+28,Female,Footwear,Bengaluru,Summer,4.4,6,Extremely Harmful,Nylon,Dress
+47,Female,Accessories,Kolkata,Spring,4.5,14,Extremely Harmful,Nylon,Blouse
+20,Male,Footwear,Mumbai,Spring,4.8,34,Environment Friendly,Nylon,Cargo Shorts
+63,Male,Footwear,Delhi,Summer,2.9,12,Extremely Harmful,Cotton,Wedges
+25,Female,Clothing,Kolkata,Spring,3.2,11,Moderately Harmful,Linen,Bracelet
+29,Male,Accessories,Hyderabad,Spring,3.3,5,Moderately Harmful,Silk,Tracksuit
+50,Male,Accessories,Hyderabad,Winter,4.2,25,Moderately Harmful,Silk,Brooch
+18,Female,Footwear,Kolkata,Spring,2.9,11,Environment Friendly,Spandex,Sandals
+70,Male,Footwear,Hyderabad,Spring,4.6,27,Extremely Harmful,Polyester,Chinos
+66,Male,Clothing,Kolkata,Fall,4.1,43,Extremely Harmful,Nylon,Overalls
+28,Male,Footwear,Hyderabad,Spring,3.1,18,Environment Friendly,Silk,Kimono
+54,Female,Accessories,Mumbai,Winter,4.2,32,Extremely Harmful,Silk,Sweater
+19,Female,Clothing,Bengaluru,Fall,4.5,27,Environment Friendly,Silk,Hoodie
+20,Male,Clothing,Kolkata,Summer,3.7,24,Extremely Harmful,Silk,Belt
+43,Male,Clothing,Delhi,Winter,3.7,31,Moderately Harmful,Polyester,Cargo Pants
+38,Female,Outerwear,Hyderabad,Winter,3.4,39,Extremely Harmful,Polyester,Sandals
+50,Female,Outerwear,Bengaluru,Summer,3,36,Extremely Harmful,Polyester,Sandals
+64,Female,Clothing,Delhi,Fall,4.2,5,Moderately Harmful,Polyester,Skirt
+49,Female,Outerwear,Delhi,Summer,2.9,47,Moderately Harmful,Linen,Vest
+47,Male,Clothing,Hyderabad,Winter,3.5,29,Extremely Harmful,Wool,Scarf
+36,Male,Clothing,Bengaluru,Winter,4.1,43,Moderately Harmful,Polyester,Platform Shoes
+55,Female,Clothing,Mumbai,Summer,4.3,40,Moderately Harmful,Polyester,T-Shirt
+25,Female,Footwear,Delhi,Winter,2.8,4,Moderately Harmful,Silk,Socks
+53,Female,Footwear,Mumbai,Spring,4.9,39,Moderately Harmful,Nylon,Wedges
+49,Male,Footwear,Delhi,Summer,3.3,45,Moderately Harmful,Nylon,T-Shirt
+35,Female,Clothing,Kolkata,Spring,3.2,20,Moderately Harmful,Cotton,Cardigan
+29,Female,Accessories,Kolkata,Spring,4.4,14,Environment Friendly,Linen,Raincoat
+47,Male,Footwear,Kolkata,Winter,4.8,33,Environment Friendly,Silk,Hoodie
+53,Male,Clothing,Bengaluru,Fall,4.2,18,Moderately Harmful,Cotton,Coat
+33,Female,Clothing,Mumbai,Fall,4,9,Extremely Harmful,Acrylic,Mules
+21,Female,Accessories,Bengaluru,Winter,2.5,34,Moderately Harmful,Cotton,Espadrilles
+32,Female,Accessories,Delhi,Summer,3.9,33,Environment Friendly,Cotton,Socks
+52,Female,Clothing,Delhi,Winter,4.9,15,Environment Friendly,Nylon,Windbreaker
+67,Female,Outerwear,Bengaluru,Winter,3.5,4,Extremely Harmful,Silk,Belt
+43,Male,Outerwear,Bengaluru,Spring,4.2,25,Moderately Harmful,Nylon,Flip-flops
+58,Male,Footwear,Mumbai,Spring,4.7,20,Extremely Harmful,Linen,Running Shoes
+20,Male,Accessories,Bengaluru,Summer,4.5,5,Moderately Harmful,Linen,Coat
+61,Male,Accessories,Hyderabad,Spring,2.8,16,Environment Friendly,Spandex,Skirt
+32,Female,Footwear,Kolkata,Fall,2.9,13,Extremely Harmful,Acrylic,Vest
+38,Male,Outerwear,Hyderabad,Winter,3.2,11,Extremely Harmful,Nylon,Cargo Shorts
+21,Male,Accessories,Delhi,Winter,4.9,21,Extremely Harmful,Wool,Cardigan
+37,Male,Footwear,Delhi,Summer,3.7,6,Moderately Harmful,Cotton,Coat
+27,Male,Accessories,Hyderabad,Summer,4.3,29,Extremely Harmful,Polyester,Heels
+36,Male,Footwear,Kolkata,Fall,3.9,15,Extremely Harmful,Nylon,Sandals
+32,Female,Footwear,Hyderabad,Spring,3.2,17,Moderately Harmful,Wool,Raincoat
+51,Female,Clothing,Mumbai,Summer,3.1,32,Moderately Harmful,Silk,Cardigan
+64,Male,Clothing,Bengaluru,Spring,3.9,42,Extremely Harmful,Wool,Gloves
+68,Male,Accessories,Delhi,Spring,2.6,21,Extremely Harmful,Nylon,Hoodie
+68,Female,Footwear,Bengaluru,Winter,3.3,9,Extremely Harmful,Wool,Slip-ons
+33,Female,Outerwear,Bengaluru,Fall,4.6,16,Moderately Harmful,Linen,Brooch
+65,Male,Footwear,Bengaluru,Summer,4.6,42,Moderately Harmful,Cotton,Cargo Pants
+48,Male,Clothing,Bengaluru,Summer,4.4,37,Moderately Harmful,Linen,Bow Tie
+69,Female,Clothing,Hyderabad,Spring,4.2,32,Environment Friendly,Spandex,Cloak
+59,Male,Clothing,Delhi,Spring,3,28,Extremely Harmful,Cotton,Poncho
+48,Female,Clothing,Hyderabad,Winter,4,13,Environment Friendly,Acrylic,Ankle Boots
+25,Female,Accessories,Delhi,Fall,3.5,11,Environment Friendly,Polyester,Sweater
+29,Female,Outerwear,Kolkata,Winter,3,36,Extremely Harmful,Acrylic,Sari
+57,Male,Clothing,Hyderabad,Spring,3.7,23,Extremely Harmful,Spandex,Sandals
+23,Male,Outerwear,Kolkata,Summer,4,37,Environment Friendly,Acrylic,Shirt
+45,Female,Footwear,Bengaluru,Fall,4.2,21,Environment Friendly,Acrylic,Wedges
+38,Female,Clothing,Hyderabad,Spring,2.5,22,Environment Friendly,Linen,Flats
+21,Female,Footwear,Kolkata,Summer,3,9,Environment Friendly,Acrylic,Espadrilles
+32,Male,Accessories,Bengaluru,Fall,3.2,16,Environment Friendly,Acrylic,Sandals
+63,Female,Accessories,Mumbai,Summer,3.5,4,Environment Friendly,Nylon,Watch
+29,Female,Outerwear,Delhi,Summer,4.8,3,Environment Friendly,Spandex,Wedges
+27,Female,Outerwear,Mumbai,Summer,2.6,6,Extremely Harmful,Silk,Tracksuit
+56,Female,Accessories,Kolkata,Spring,3.4,18,Extremely Harmful,Nylon,Polo
+30,Female,Outerwear,Bengaluru,Winter,3.7,34,Environment Friendly,Spandex,Socks
+49,Male,Footwear,Hyderabad,Fall,4.5,26,Extremely Harmful,Spandex,T-Shirt
+58,Male,Footwear,Hyderabad,Winter,3.7,50,Extremely Harmful,Nylon,Cargo Pants
+57,Male,Clothing,Mumbai,Fall,3.3,40,Environment Friendly,Silk,Leggings
+60,Male,Footwear,Bengaluru,Spring,4.7,24,Moderately Harmful,Acrylic,Slippers
+69,Male,Accessories,Bengaluru,Spring,2.7,33,Moderately Harmful,Nylon,Shirt
+70,Female,Footwear,Delhi,Spring,4.6,19,Moderately Harmful,Acrylic,Jacket
+53,Male,Clothing,Mumbai,Winter,2.7,24,Environment Friendly,Cotton,Bracelet
+25,Female,Footwear,Kolkata,Spring,4.8,19,Environment Friendly,Nylon,Chinos
+48,Female,Accessories,Mumbai,Summer,4.4,4,Extremely Harmful,Nylon,Raincoat
+69,Female,Clothing,Mumbai,Winter,4,11,Moderately Harmful,Cotton,Slip-ons
+25,Male,Footwear,Bengaluru,Summer,3.2,28,Environment Friendly,Linen,Skirt
+29,Male,Clothing,Bengaluru,Spring,4.4,24,Moderately Harmful,Linen,Robe
+46,Male,Outerwear,Kolkata,Spring,3.8,25,Environment Friendly,Polyester,Sweater
+37,Female,Outerwear,Delhi,Summer,3.6,27,Extremely Harmful,Silk,Blazer
+20,Female,Footwear,Bengaluru,Summer,3.3,49,Extremely Harmful,Wool,Vest
+40,Male,Accessories,Kolkata,Winter,3.4,45,Environment Friendly,Acrylic,Slip-ons
+60,Male,Footwear,Kolkata,Fall,3.5,26,Extremely Harmful,Cotton,Espadrilles
+26,Female,Footwear,Delhi,Summer,3.6,4,Environment Friendly,Acrylic,Earrings
+29,Male,Clothing,Kolkata,Winter,3.2,3,Extremely Harmful,Acrylic,Wedges
+66,Female,Clothing,Hyderabad,Fall,3.7,45,Environment Friendly,Nylon,Jeans
+66,Male,Accessories,Hyderabad,Spring,4.5,21,Extremely Harmful,Wool,Dress Shoes
+56,Male,Clothing,Bengaluru,Winter,4.6,50,Environment Friendly,Cotton,Beanie
+69,Female,Accessories,Mumbai,Winter,4.1,19,Moderately Harmful,Acrylic,Chelsea Boots
+38,Female,Footwear,Kolkata,Spring,3.4,6,Environment Friendly,Nylon,Vest
+42,Female,Accessories,Delhi,Spring,3.7,50,Moderately Harmful,Acrylic,Blouse
+30,Female,Footwear,Hyderabad,Summer,3.3,17,Environment Friendly,Nylon,Slippers
+66,Female,Accessories,Mumbai,Spring,4.5,24,Moderately Harmful,Nylon,Cargo Shorts
+36,Male,Outerwear,Delhi,Fall,3.3,46,Extremely Harmful,Polyester,Bracelet
+58,Male,Accessories,Delhi,Fall,4.3,42,Environment Friendly,Polyester,T-Shirt
+45,Male,Clothing,Bengaluru,Winter,2.5,10,Moderately Harmful,Wool,Bow Tie
+47,Male,Clothing,Kolkata,Spring,2.6,1,Moderately Harmful,Spandex,Handbag
+66,Female,Outerwear,Hyderabad,Summer,4.9,28,Extremely Harmful,Wool,Robe
+41,Female,Outerwear,Bengaluru,Summer,4.7,48,Moderately Harmful,Spandex,Running Shoes
+41,Male,Clothing,Hyderabad,Winter,3,47,Moderately Harmful,Silk,Rain Boots
+66,Male,Footwear,Delhi,Winter,3.5,29,Extremely Harmful,Acrylic,Heels
+37,Male,Accessories,Kolkata,Summer,4.8,37,Moderately Harmful,Linen,Rain Boots
+70,Male,Clothing,Delhi,Winter,4.3,38,Moderately Harmful,Cotton,Ankle Boots
+62,Male,Clothing,Mumbai,Fall,3.2,48,Environment Friendly,Polyester,Sweater
+61,Female,Clothing,Delhi,Summer,3.1,36,Extremely Harmful,Linen,Parkas
+48,Male,Footwear,Hyderabad,Fall,2.8,9,Moderately Harmful,Spandex,Chinos
+70,Male,Outerwear,Bengaluru,Summer,2.9,34,Moderately Harmful,Nylon,Belt
+46,Male,Footwear,Kolkata,Winter,3.7,43,Environment Friendly,Spandex,Polo
+31,Male,Footwear,Delhi,Fall,3.3,46,Moderately Harmful,Acrylic,Cloak
+19,Female,Accessories,Hyderabad,Winter,2.8,5,Extremely Harmful,Silk,Turtleneck
+39,Female,Accessories,Hyderabad,Winter,4.5,15,Moderately Harmful,Linen,Hat
+41,Female,Footwear,Bengaluru,Fall,2.6,30,Extremely Harmful,Linen,Running Shoes
+20,Male,Footwear,Mumbai,Spring,3.7,44,Moderately Harmful,Acrylic,Jeans
+36,Female,Outerwear,Delhi,Fall,4.4,16,Environment Friendly,Polyester,Cap
+32,Female,Footwear,Delhi,Winter,4.3,16,Environment Friendly,Linen,Chukka Boots
+69,Male,Footwear,Mumbai,Winter,3.5,16,Extremely Harmful,Spandex,Puffer Jacket
+40,Female,Clothing,Kolkata,Spring,3.8,21,Environment Friendly,Linen,Cardigan
+40,Male,Accessories,Bengaluru,Summer,3.5,39,Moderately Harmful,Silk,Hoodie
+20,Male,Accessories,Bengaluru,Summer,4.6,40,Environment Friendly,Polyester,Running Shoes
+64,Male,Accessories,Delhi,Spring,2.6,48,Moderately Harmful,Nylon,Sweater
+27,Male,Outerwear,Delhi,Summer,4.4,26,Environment Friendly,Cotton,Tracksuit
+24,Male,Clothing,Hyderabad,Winter,4,46,Extremely Harmful,Cotton,Watch
+48,Female,Clothing,Hyderabad,Winter,4.4,27,Environment Friendly,Spandex,Sandals
+49,Male,Clothing,Kolkata,Spring,4.7,5,Environment Friendly,Wool,Bow Tie
+36,Male,Accessories,Delhi,Fall,3.9,43,Extremely Harmful,Silk,Earrings
+56,Male,Outerwear,Kolkata,Fall,2.7,17,Extremely Harmful,Spandex,Sandals
+37,Male,Accessories,Hyderabad,Winter,3.7,3,Environment Friendly,Linen,Dress
+42,Female,Clothing,Delhi,Spring,2.6,47,Extremely Harmful,Spandex,Parkas
+28,Male,Clothing,Bengaluru,Winter,3.9,24,Environment Friendly,Spandex,Espadrilles
+27,Male,Outerwear,Mumbai,Fall,4.9,12,Extremely Harmful,Polyester,Overalls
+63,Male,Accessories,Hyderabad,Fall,4.1,35,Moderately Harmful,Acrylic,Sandals
+58,Female,Outerwear,Delhi,Fall,3,42,Environment Friendly,Silk,Socks
+37,Female,Clothing,Delhi,Fall,4.1,1,Extremely Harmful,Wool,Tennis Shoes
+56,Female,Accessories,Kolkata,Spring,3.8,27,Environment Friendly,Nylon,Backpack
+18,Female,Outerwear,Delhi,Spring,4,16,Extremely Harmful,Cotton,Suitcase
+48,Male,Footwear,Kolkata,Summer,3.6,36,Moderately Harmful,Acrylic,Ring
+31,Male,Clothing,Kolkata,Winter,3,30,Extremely Harmful,Cotton,Handbag
+51,Male,Footwear,Mumbai,Summer,3,18,Environment Friendly,Spandex,Belt
+65,Male,Accessories,Mumbai,Spring,2.6,45,Extremely Harmful,Nylon,Coat
+53,Male,Accessories,Bengaluru,Fall,3.4,1,Extremely Harmful,Cotton,Robe
+55,Male,Clothing,Delhi,Winter,3.1,42,Extremely Harmful,Cotton,Earrings
+62,Male,Accessories,Hyderabad,Summer,3,7,Moderately Harmful,Cotton,Bracelet
+55,Male,Accessories,Delhi,Summer,3.7,50,Extremely Harmful,Wool,Vest
+64,Male,Accessories,Delhi,Spring,3.5,37,Moderately Harmful,Cotton,Mules
+52,Female,Outerwear,Hyderabad,Spring,2.8,18,Moderately Harmful,Nylon,Jumpsuit
+24,Male,Clothing,Delhi,Spring,4.5,29,Moderately Harmful,Nylon,Boots
+38,Female,Clothing,Mumbai,Summer,3.3,45,Moderately Harmful,Spandex,Scarf
+59,Female,Footwear,Mumbai,Winter,3.4,13,Moderately Harmful,Spandex,Sandals
+27,Female,Clothing,Kolkata,Winter,3.2,47,Extremely Harmful,Spandex,Trench Coat
+24,Female,Outerwear,Bengaluru,Summer,3.7,7,Moderately Harmful,Polyester,Vest
+23,Female,Accessories,Delhi,Summer,4.6,11,Extremely Harmful,Cotton,Ankle Strap Sandals
+69,Male,Footwear,Delhi,Spring,5,39,Moderately Harmful,Wool,Turtleneck
+59,Female,Footwear,Bengaluru,Summer,4.4,6,Extremely Harmful,Polyester,Flats
+51,Male,Clothing,Mumbai,Fall,4.9,2,Environment Friendly,Silk,Espadrilles
+63,Female,Clothing,Kolkata,Spring,4.1,39,Environment Friendly,Silk,Dress Shoes
+54,Female,Clothing,Mumbai,Winter,4.9,23,Extremely Harmful,Wool,Sandals
+32,Male,Accessories,Mumbai,Fall,4.7,46,Moderately Harmful,Spandex,Ankle Strap Sandals
+39,Female,Clothing,Kolkata,Fall,3,19,Extremely Harmful,Polyester,Hat
+66,Female,Accessories,Mumbai,Winter,3.4,3,Extremely Harmful,Wool,Sandals
+28,Female,Outerwear,Kolkata,Winter,3.2,47,Environment Friendly,Spandex,Dress Shoes
+50,Male,Footwear,Delhi,Fall,2.9,6,Extremely Harmful,Silk,Tie
+70,Female,Outerwear,Hyderabad,Fall,4.5,6,Extremely Harmful,Wool,Raincoat
+67,Male,Footwear,Mumbai,Fall,2.7,12,Environment Friendly,Acrylic,Boots
+64,Male,Accessories,Hyderabad,Spring,3.4,40,Moderately Harmful,Linen,Windbreaker
+45,Female,Accessories,Bengaluru,Summer,4.6,38,Moderately Harmful,Acrylic,Cloak
+22,Female,Outerwear,Mumbai,Summer,2.7,10,Environment Friendly,Nylon,Sunglasses
+27,Female,Footwear,Bengaluru,Spring,4.2,28,Moderately Harmful,Wool,Rain Boots
+25,Female,Accessories,Kolkata,Winter,3.2,19,Moderately Harmful,Acrylic,Tie
+37,Male,Clothing,Delhi,Spring,4.8,25,Environment Friendly,Cotton,Vest
+26,Female,Outerwear,Mumbai,Spring,3.3,38,Extremely Harmful,Acrylic,Flip-flops
+33,Male,Accessories,Mumbai,Fall,4.2,6,Environment Friendly,Cotton,Hoodie
+43,Female,Clothing,Delhi,Spring,4.8,7,Extremely Harmful,Wool,Watch
+37,Female,Outerwear,Kolkata,Winter,4.9,2,Extremely Harmful,Silk,Chinos
+46,Male,Footwear,Kolkata,Fall,3.9,24,Moderately Harmful,Nylon,Loafers
+22,Male,Outerwear,Kolkata,Fall,3,26,Moderately Harmful,Wool,Earrings
+20,Female,Clothing,Mumbai,Winter,4.6,25,Environment Friendly,Wool,Cargo Shorts
+60,Female,Footwear,Delhi,Fall,3.5,10,Moderately Harmful,Cotton,Suitcase
+39,Female,Footwear,Mumbai,Winter,4.8,14,Moderately Harmful,Cotton,Cargo Shorts
+43,Female,Accessories,Hyderabad,Fall,4.8,21,Moderately Harmful,Cotton,Hoodie
+31,Female,Footwear,Bengaluru,Fall,3,26,Environment Friendly,Linen,Peacoat
+19,Male,Footwear,Delhi,Winter,4.5,12,Moderately Harmful,Silk,Robe
+35,Male,Clothing,Hyderabad,Spring,4.8,11,Extremely Harmful,Linen,Sweater
+41,Female,Footwear,Delhi,Summer,3.8,15,Moderately Harmful,Silk,Sweater
+52,Male,Footwear,Kolkata,Spring,4.6,13,Moderately Harmful,Nylon,Coat
+45,Female,Accessories,Bengaluru,Spring,3.1,5,Extremely Harmful,Cotton,Brooch
+34,Male,Footwear,Hyderabad,Spring,3.4,36,Moderately Harmful,Silk,Cargo Shorts
+35,Female,Outerwear,Hyderabad,Winter,3.3,32,Extremely Harmful,Linen,Raincoat
+29,Male,Accessories,Hyderabad,Spring,4.8,1,Moderately Harmful,Wool,Tracksuit
+59,Male,Accessories,Kolkata,Summer,2.8,15,Moderately Harmful,Linen,Sandals
+24,Female,Outerwear,Delhi,Summer,3.1,3,Environment Friendly,Nylon,Blouse
+70,Male,Accessories,Hyderabad,Summer,4.6,48,Extremely Harmful,Cotton,Sneakers
+29,Female,Accessories,Bengaluru,Winter,2.6,30,Environment Friendly,Cotton,Hat
+67,Male,Accessories,Kolkata,Winter,2.6,40,Environment Friendly,Polyester,Ankle Strap Sandals
+36,Male,Outerwear,Hyderabad,Spring,3.8,24,Moderately Harmful,Cotton,Platform Shoes
+23,Male,Clothing,Kolkata,Fall,4.5,48,Extremely Harmful,Polyester,Jacket
+18,Female,Accessories,Mumbai,Spring,3,27,Environment Friendly,Acrylic,Espadrilles
+53,Male,Outerwear,Mumbai,Winter,3.5,14,Environment Friendly,Acrylic,Backpack
+32,Female,Outerwear,Delhi,Spring,3.8,18,Extremely Harmful,Nylon,Sneakers
+38,Male,Footwear,Kolkata,Winter,3.5,48,Moderately Harmful,Silk,Cap
+47,Female,Clothing,Kolkata,Fall,3.1,32,Extremely Harmful,Cotton,Chelsea Boots
+46,Female,Outerwear,Kolkata,Spring,3,21,Extremely Harmful,Linen,Dress Shoes
+66,Male,Clothing,Hyderabad,Winter,4.3,42,Environment Friendly,Spandex,Cardigan
+40,Male,Accessories,Mumbai,Winter,3.3,4,Environment Friendly,Nylon,Mittens
+43,Female,Clothing,Kolkata,Winter,4.7,19,Environment Friendly,Acrylic,Windbreaker
+58,Female,Footwear,Hyderabad,Winter,4.5,6,Extremely Harmful,Cotton,Running Shoes
+21,Female,Accessories,Hyderabad,Winter,2.9,2,Moderately Harmful,Linen,Chinos
+42,Male,Outerwear,Kolkata,Winter,4.1,21,Moderately Harmful,Acrylic,Sweater
+24,Male,Accessories,Hyderabad,Summer,3.5,40,Environment Friendly,Silk,Blouse
+43,Male,Outerwear,Mumbai,Winter,3.4,33,Moderately Harmful,Nylon,Kimono
+47,Male,Accessories,Bengaluru,Fall,3.3,26,Environment Friendly,Acrylic,Heels
+49,Male,Outerwear,Mumbai,Fall,3.2,23,Extremely Harmful,Nylon,Cardigan
+50,Male,Clothing,Hyderabad,Spring,4,39,Moderately Harmful,Acrylic,Platform Shoes
+51,Female,Clothing,Delhi,Winter,3.6,42,Moderately Harmful,Cotton,Loafers
+40,Male,Accessories,Kolkata,Summer,4.6,41,Moderately Harmful,Wool,Loafers
+45,Male,Accessories,Delhi,Summer,2.6,41,Extremely Harmful,Cotton,Skirt
+52,Male,Footwear,Mumbai,Winter,4.3,12,Extremely Harmful,Polyester,Jeans
+62,Female,Footwear,Delhi,Summer,3.4,31,Moderately Harmful,Polyester,Cardigan
+20,Female,Outerwear,Hyderabad,Winter,3.5,34,Environment Friendly,Polyester,Dress Shoes
+43,Female,Clothing,Hyderabad,Winter,4.2,32,Extremely Harmful,Acrylic,Chinos
+29,Male,Outerwear,Bengaluru,Fall,3.5,31,Environment Friendly,Linen,Flats
+22,Male,Footwear,Delhi,Summer,3.6,24,Moderately Harmful,Spandex,Dress
+48,Female,Accessories,Delhi,Summer,4.3,31,Moderately Harmful,Linen,Espadrilles
+42,Male,Outerwear,Delhi,Fall,4.9,18,Environment Friendly,Linen,Slippers
+19,Female,Accessories,Hyderabad,Summer,4.1,15,Extremely Harmful,Polyester,Raincoat
+60,Female,Footwear,Hyderabad,Spring,3.6,7,Environment Friendly,Polyester,Kimono
+32,Male,Clothing,Delhi,Summer,3.4,35,Moderately Harmful,Wool,Overalls
+26,Male,Accessories,Hyderabad,Summer,2.9,35,Environment Friendly,Nylon,Socks
+25,Female,Accessories,Bengaluru,Summer,2.7,19,Moderately Harmful,Wool,Bracelet
+66,Female,Clothing,Kolkata,Summer,4.3,26,Environment Friendly,Spandex,Sandals
+45,Female,Clothing,Bengaluru,Summer,3.3,39,Extremely Harmful,Cotton,Tennis Shoes
+54,Female,Accessories,Kolkata,Winter,2.8,22,Environment Friendly,Spandex,Hoodie
+37,Male,Footwear,Delhi,Summer,3.2,14,Extremely Harmful,Cotton,Coat
+54,Male,Outerwear,Mumbai,Fall,3.6,50,Environment Friendly,Wool,Windbreaker
+50,Female,Clothing,Hyderabad,Fall,4,33,Extremely Harmful,Spandex,Coat
+25,Female,Accessories,Kolkata,Spring,4.9,48,Environment Friendly,Wool,Sari
+47,Male,Accessories,Kolkata,Winter,4,48,Extremely Harmful,Polyester,Flip-flops
+63,Male,Outerwear,Mumbai,Winter,3.8,27,Environment Friendly,Spandex,Chelsea Boots
+64,Male,Clothing,Mumbai,Summer,3.7,27,Moderately Harmful,Spandex,Blouse
+18,Female,Accessories,Bengaluru,Winter,3.9,20,Moderately Harmful,Polyester,Vest
+59,Female,Footwear,Mumbai,Fall,3.3,48,Environment Friendly,Linen,Slippers
+37,Male,Accessories,Bengaluru,Summer,2.7,29,Moderately Harmful,Silk,Vest
+23,Female,Clothing,Bengaluru,Winter,4.7,45,Extremely Harmful,Linen,Loafers
+54,Female,Accessories,Hyderabad,Summer,2.8,25,Environment Friendly,Silk,Polo
+38,Female,Accessories,Delhi,Winter,4.6,25,Moderately Harmful,Acrylic,Suitcase
+19,Female,Clothing,Bengaluru,Spring,4.5,37,Moderately Harmful,Silk,Kimono
+34,Female,Outerwear,Delhi,Fall,5,16,Extremely Harmful,Wool,Blouse
+21,Male,Footwear,Delhi,Fall,4.1,30,Moderately Harmful,Linen,Windbreaker
+50,Female,Footwear,Mumbai,Summer,4.6,6,Moderately Harmful,Silk,Tracksuit
+55,Female,Footwear,Bengaluru,Winter,4.9,36,Extremely Harmful,Cotton,Beanie
+20,Female,Footwear,Delhi,Winter,3.9,3,Environment Friendly,Silk,Belt
+34,Male,Accessories,Kolkata,Spring,3.9,29,Environment Friendly,Polyester,Necklace
+62,Female,Accessories,Hyderabad,Summer,2.6,15,Extremely Harmful,Wool,Gloves
+21,Female,Clothing,Hyderabad,Summer,2.7,18,Environment Friendly,Spandex,T-Shirt
+21,Male,Accessories,Hyderabad,Spring,3.5,2,Moderately Harmful,Silk,Cardigan
+42,Female,Accessories,Kolkata,Summer,3.7,49,Extremely Harmful,Polyester,Cap
+35,Male,Footwear,Bengaluru,Winter,3.2,48,Moderately Harmful,Spandex,Gloves
+39,Female,Outerwear,Delhi,Winter,3.3,43,Extremely Harmful,Spandex,Vest
+68,Female,Accessories,Kolkata,Summer,4.8,30,Environment Friendly,Spandex,Turtleneck
+46,Female,Footwear,Kolkata,Fall,3.2,10,Moderately Harmful,Acrylic,Sari
+41,Male,Outerwear,Hyderabad,Winter,2.5,11,Environment Friendly,Silk,Cargo Pants
+23,Male,Outerwear,Delhi,Fall,3.9,12,Extremely Harmful,Spandex,T-Shirt
+68,Male,Footwear,Kolkata,Summer,4.7,28,Environment Friendly,Wool,Espadrilles
+48,Male,Accessories,Mumbai,Spring,2.6,36,Extremely Harmful,Cotton,Sweater
+38,Female,Accessories,Mumbai,Fall,2.8,37,Moderately Harmful,Wool,Rain Boots
+41,Male,Clothing,Mumbai,Winter,4.4,22,Environment Friendly,Silk,Vest
+58,Male,Accessories,Mumbai,Spring,4.6,32,Extremely Harmful,Wool,Blazer
+49,Female,Outerwear,Bengaluru,Summer,3.2,40,Extremely Harmful,Acrylic,Peacoat
+57,Female,Accessories,Bengaluru,Winter,4.2,47,Extremely Harmful,Spandex,Poncho
+49,Female,Clothing,Mumbai,Summer,3.7,24,Environment Friendly,Polyester,Pants
+50,Male,Outerwear,Delhi,Fall,3.9,11,Environment Friendly,Spandex,Socks
+28,Male,Accessories,Delhi,Summer,4.7,19,Moderately Harmful,Silk,Jacket
+38,Female,Outerwear,Hyderabad,Winter,4.5,42,Moderately Harmful,Nylon,Loafers
+33,Male,Clothing,Kolkata,Fall,3.3,6,Moderately Harmful,Wool,Dress
+30,Male,Clothing,Kolkata,Fall,3.3,31,Moderately Harmful,Acrylic,Trench Coat
+43,Female,Outerwear,Bengaluru,Winter,4.6,31,Extremely Harmful,Nylon,Chukka Boots
+43,Female,Clothing,Kolkata,Spring,3.6,27,Environment Friendly,Acrylic,Heels
