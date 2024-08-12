@@ -5,7 +5,7 @@ from collections import defaultdict
 app = Flask(__name__)
 
 # Load your CSV file into a DataFrame
-df = pd.read_csv('shopping_trends.csv')
+df = pd.read_csv('static/shopping_trends.csv')
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
