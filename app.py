@@ -1,10 +1,11 @@
 from flask import Flask, render_template, request
 import pandas as pd
+from collections import defaultdict
 
 app = Flask(__name__)
 
 # Load your CSV file into a DataFrame
-df = pd.read_csv('static/shopping_trends.csv')
+df = pd.read_csv('shopping_trends.csv')
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
@@ -32,12 +33,29 @@ def index():
         if material != 'All':
             filtered_df = filtered_df[filtered_df['Textile Material'] == material]
 
-        # Sort by Review Rating and Previous Purchases
-        sorted_df = filtered_df.sort_values(by=['Review Rating', 'Previous Purchases'], ascending=[True, True])
+        # Create a defaultdict to aggregate ratings and purchases for each item
+        item_dict = defaultdict(lambda: {'total_rating': 0, 'total_purchases': 0, 'count': 0})
 
-        # Get top 10 and bottom 10
-        top_10 = sorted_df.head(10)
-        bottom_10 = sorted_df.tail(10)
+        for _, row in filtered_df.iterrows():
+            item = row['Item Purchased']
+            rating = row['Review Rating']
+            purchases = row['Previous Purchases']
+            
+            item_dict[item]['total_rating'] += rating
+            item_dict[item]['total_purchases'] += purchases
+            item_dict[item]['count'] += 1
+
+        # Average the ratings and purchases
+        for item in item_dict:
+            item_dict[item]['average_rating'] = item_dict[item]['total_rating'] / item_dict[item]['count']
+            item_dict[item]['total_purchases'] = item_dict[item]['total_purchases']  # Keep as total or average
+
+        # Sort items based on average rating and total purchases
+        sorted_items = sorted(item_dict.items(), key=lambda x: (x[1]['average_rating'], x[1]['total_purchases']))
+
+        # Get top 10 and bottom 10 items
+        top_10 = sorted_items[:10]
+        bottom_10 = sorted_items[-10:]
 
         return render_template('results.html', top_10=top_10, bottom_10=bottom_10)
     
