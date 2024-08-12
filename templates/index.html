@@ -5,169 +5,155 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Walmart Solutions</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-    <style>
-        body {
-            padding-top: 20px;
-        }
-        .navbar-brand {
-            font-weight: bold;
-        }
-        .form-container {
-            max-width: 600px;
-            margin: auto;
-            margin-top: 30px;
-            padding: 20px;
-            border: 1px solid #ddd;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        .form-container h1 {
-            text-align: center;
-            margin-bottom: 20px;
-            color:rgba(220, 220, 29, 0.906);
-        }
-        .form-container label {
-            font-weight: bold;
-        }
-        .form-container select, .form-container button {
-            margin-bottom: 15px;
-        }
-        .form-container button {
-            width: 100%;
-        }
-    </style>
+    <link rel="stylesheet" href="static/style.css">
   </head>
   <body>
-    <nav class="navbar navbar-expand-lg bg-body-tertiary">
-      <div class="container-fluid">
-        <a class="navbar-brand" href="#">Navbar</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">Home</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Link</a>
-            </li>
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Dropdown
-              </a>
-              <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="#">Action</a></li>
-                <li><a class="dropdown-item" href="#">Another action</a></li>
-                <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="#">Something else here</a></li>
-              </ul>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link disabled" aria-disabled="true">Disabled</a>
-            </li>
-          </ul>
-          <form class="d-flex" role="search">
-            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-            <button class="btn btn-outline-success" type="submit">Search</button>
-          </form>
-        </div>
-      </div>
-    </nav>
+    
 
+    <div class="bgg">
     <div class="form-container">
-      <h1>Walmart Solutions</h1>
       <form action="/" method="post">
-        <div class="mb-3">
-          <label for="age_range" class="form-label">Age Range:</label>
-          <select id="age_range" name="age_range" class="form-select" onchange="updateAgeSliders()">
-            <option value="11,20">Below 20</option>
-            <option value="21,30">21 to 30</option>
-            <option value="31,40">31 to 40</option>
-            <option value="41,50">41 to 50</option>
-            <option value="51,60">51 to 60</option>
-            <option value="61,70">60+</option>
-          </select>
-          <input type="hidden" id="age_start" name="age_start" value="0">
-          <input type="hidden" id="age_end" name="age_end" value="100">
+        <div class="input-section active">
+          
+          <div id="age-range-container">
+            <div class="age-options">
+              <div class="age-option" data-label="Below 20" data-start="11" data-end="19">
+                <img src="static/below20.png" class="imgg" alt="Below 20">
+                <span> <symbol><</symbol> 20</span>
+              </div>
+              <div class="age-option" data-label="21 to 40" data-start="20" data-end="40">
+                <img src="static/20to40.png" class="imgg" alt="21 to 40">
+                <span>21 to 40</span>
+              </div>
+              <div class="age-option" data-label="41 to 60" data-start="41" data-end="60">
+                <img src="static/41to60.png" class="imgg" alt="41 to 60">
+                <span>41 to 60</span>
+              </div>
+              <div class="age-option" data-label="60+" data-start="61" data-end="70">
+                <img src="static/above60.png" class="imgg" alt="60+">
+                <span>60+</span>
+              </div>
+              <div class="age-option" data-label="60+" data-start="0" data-end="70">
+                <img src="static\AllAge.jpg" class="imgg" alt="All">
+                <span>All</span>
+              </div>
+            </div>
+            <input type="hidden" id="age_range" name="age_range" value="">
+            <input type="hidden" id="age_start" name="age_start" value="">
+            <input type="hidden" id="age_end" name="age_end" value="">
+          </div>
+
+          <div class="button-container first-page">
+            <button type="button" class="btn btn-primary" onclick="nextSection()">Next</button>
+          </div>
         </div>
 
-        <div class="mb-3">
-          <label for="gender" class="form-label">Gender:</label>
-          <select id="gender" name="gender" class="form-select">
-            <option value="All">All</option>
-            <option value="Male">Male</option>
-            <option value="Female">Female</option>
-          </select>
+        <div class="input-section">
+          <label for="gender" class="form-label"></label>
+          <div id="gender-options" class="gender-options">
+            <div class="gender-option" data-label="Male">
+              <img src="static/Male.png"class="imgg" alt="Male">
+              <span>Male</span>
+            </div>
+            <div class="gender-option" data-label="Female">
+              <img class="imgg" src="static/Female.png" alt="Female">
+              <span>Female</span>
+            </div>
+            <div class="gender-option" data-label="All">
+              <img class="imgg" src="static\All.png" alt="All">
+              <span>All</span>
+            </div>
+          </div>
+          <input type="hidden" id="gender" name="gender" value="">
+          <div class="button-container">
+            <button type="button" class="btn btn-secondary" onclick="prevSection()">Previous</button>
+            <button type="button" class="btn btn-primary" onclick="nextSection()">Next</button>
+          </div>
         </div>
 
-        <div class="mb-3">
-          <label for="category" class="form-label">Category:</label>
-          <select id="category" name="category" class="form-select">
-            <option value="All">All</option>
-            <option value="Clothing">Clothing</option>
-            <option value="Footwear">Footwear</option>
-            <option value="Outerwear">Outerwear</option>
-            <option value="Accessories">Accessories</option>
-          </select>
+        <div class="input-section">
+          <label for="category" class="form-label"></label>
+          <div class="category-options">
+            <div class="category-option" id="clothing" onclick="selectOption('clothing')">
+              <img src="static\Clothing.jpg" alt="Clothing">
+              <p>Clothing</p>
+            </div>
+            <div class="category-option" id="footwear" onclick="selectOption('footwear')">
+              <img src="static\Footwear.jpg" alt="Footwear">
+              <p>Footwear</p>
+            </div>
+            <div class="category-option" id="outerwear" onclick="selectOption('outerwear')">
+              <img src="static\Outerwear.png" alt="Outerwear">
+              <p>Outerwear</p>
+            </div>
+            <div class="category-option" id="accessories" onclick="selectOption('accessories')">
+              <img src="static/Accessories.png" alt="Accessories">
+              <p>Accessories</p>
+            </div>
+            <div class="category-option" id="All" onclick="selectOption('All')">
+              <img src="static\All.png" alt="All">
+              <p>All</p>
+            </div>
+          </div>
+          <div class="button-container">
+            <button type="button" class="btn btn-secondary" onclick="prevSection()">Previous</button>
+            <button type="button" class="btn btn-primary" onclick="nextSection()">Next</button>
+          </div>
+        </div>
+        
+
+        <div class="input-section">
+          <label for="season" class="form-label"></label>
+          <div class="season-options">
+            <div class="season-option" data-label="Spring">
+              <img src="static/Spring.png" alt="Spring">
+              <span>Spring</span>
+            </div>
+            <div class="season-option" data-label="Summer">
+              <img src="static/summer.jpeg" alt="Summer">
+              <span>Summer</span>
+            </div>
+            <div class="season-option" data-label="Fall">
+              <img src="static/Fall.jpeg" alt="Fall">
+              <span>Fall</span>
+            </div>
+            <div class="season-option" data-label="Winter">
+              <img src="static/winter.jpg" alt="Winter">
+              <span>Winter</span>
+            </div>
+            <div class="season-option" data-label="All">
+              <img src="static\All.png" alt="All">
+              <span>All</span>
+            </div>
+          </div>
+          <input type="hidden" id="season" name="season" value="">
+          <div class="button-container">
+            <button type="button" class="btn btn-secondary" onclick="prevSection()">Previous</button>
+            <button type="button" class="btn btn-primary" onclick="nextSection()">Next</button>
+          </div>
         </div>
 
-        <div class="mb-3">
-          <label for="location" class="form-label">Location:</label>
+        <div class="input-section">
+          <label for="location" class="form-label"></label>
           <select id="location" name="location" class="form-select">
+            <option value="">Select Location</option>
+            <option value="Delhi">Delhi</option>
+            <option value="Mumbai">Mumbai</option>
+            <option value="Kolkata">Kolkata</option>
+            <option value="Hyderabad">Bengaluru</option>
+            <option value="Hyderabad ">Hyderabad</option>
             <option value="All">All</option>
-            <option value="California">California</option>
-            <option value="New York">New York</option>
             <!-- Add more locations as needed -->
           </select>
+          <div class="button-container">
+            <button type="button" class="btn btn-secondary" onclick="prevSection()">Previous</button>
+            <button type="submit" class="btn btn-primary">Submit</button>
+          </div>
         </div>
-
-        <div class="mb-3">
-          <label for="season" class="form-label">Season:</label>
-          <select id="season" name="season" class="form-select">
-            <option value="All">All</option>
-            <option value="Winter">Winter</option>
-            <option value="Summer">Summer</option>
-            <option value="Spring">Spring</option>
-            <option value="Fall">Fall</option>
-          </select>
-        </div>
-
-        <div class="mb-3">
-          <label for="material" class="form-label">Textile Material:</label>
-          <select id="material" name="material" class="form-select">
-            <option value="All">All</option>
-            <option value="Silk">Silk</option>
-            <option value="Polyester">Polyester</option>
-            <option value="Cotton">Cotton</option>
-            <option value="Wool">Wool</option>
-            <option value="Acrylic">Acrylic</option>
-            <option value="Spandex">Spandex</option>
-            <option value="Linen">Linen</option>
-            <option value="Nylon">Nylon</option>
-          </select>
-        </div>
-
-        <button type="submit" class="btn btn-primary">Submit</button>
       </form>
     </div>
-
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
-
-    <script>
-        function updateAgeSliders() {
-            var ageRangeSelect = document.getElementById('age_range');
-            var selectedRange = ageRangeSelect.value.split(',');
-            var startAge = selectedRange[0];
-            var endAge = selectedRange[1];
-
-            document.getElementById('age_start').value = startAge;
-            document.getElementById('age_end').value = endAge;
-        }
-
-        // Initialize sliders on page load
-        document.addEventListener('DOMContentLoaded', updateAgeSliders);
-    </script>
+  </div>
+  <script src="static/script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-7l7GhGNd8VCP9k6fA3w70G9cP7YWaWrU1v3B4LQ8iVZFH8X0pKjJMA9U6d2l3wCM8" crossorigin="anonymous"></script>
   </body>
 </html>
