@@ -2,41 +2,123 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Results</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
     <style>
-        .environment-friendly {
-            color: green;
+        body {
+            background-image: url(/static/back2.png);
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
         }
-        .moderately-harmful {
-            color: orange;
+        header {
+            background-color: #f4f4f4;
+            padding: 20px;
+            text-align: center;
         }
-        .extremely-harmful {
-            color: red;
+        h1 {
+            color: white;
+            text-align: center;
+            margin-top: 20px; /* Make sure to include 'px' for proper margin */
+            text-shadow: 2px 2px 4px rgba(104, 209, 0, 0.5); /* Adjust the values for shadow as needed */
+
+        }
+        main {
+            padding: 20px;
+        }
+        .table-container {
+            display: flex;
+            justify-content: space-between;
+        }
+        table {
+            width: 48%;
+            
+        }
+        th, td {
+            padding: 10px;
+            text-align: center;
+            border-bottom: 1px solid #ddd;
+            border-radius: 25%;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+        .top-item {
+            background-color: #ffe6e6; /* Light red */
+            color: #cc0000;
+        }
+        .bottom-item {
+            background-color: #e6ffe6; /* Light green */
+            color: #009900;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #f4f4f4;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin-top: 10px;
+            background-color: #007bff;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+        .button:hover {
+            background-color: #0056b3;
+        }
+        .foot{
+        display: flex;
+        justify-content: center;
+        align-items: center;
         }
     </style>
 </head>
 <body>
-    <h1>Top Items</h1>
-    <ul>
-        {% set top_items = top_10.head(6) %}
-        {% for index, row in top_items.iterrows() %}
-            <li class="{% if row['Environmental Impact'] == 'Extremely Harmful' %}extremely-harmful{% elif row['Environmental Impact'] == 'Moderately Harmful' %}moderately-harmful{% else %}environment-friendly{% endif %}">
-                {{ row['Item Purchased'] }} - {{ row['Review Rating'] }} - {{ row['Previous Purchases'] }} - {{ row['Environmental Impact'] }}
-            </li>
-        {% endfor %}
-    </ul>
+        <h1>RESULT!!!</h1>
+    
+    <main>
+        <div class="table-container">
+            <table id="bottom-10">
+                <thead>
+                    <tr>
+                        <th>Desired-Items</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for item, _ in bottom_10 %}
+                        <tr class="bottom-item">
+                            <td>{{ item }}</td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
 
-    <h1>Bottom Items</h1>
-    <ul>
-        {% set bottom_items = bottom_10.tail(6) %}
-        {% for index, row in bottom_items.iterrows() %}
-            <li class="{% if row['Environmental Impact'] == 'Extremely Harmful' %}extremely-harmful{% elif row['Environmental Impact'] == 'Moderately Harmful' %}moderately-harmful{% else %}environment-friendly{% endif %}">
-                {{ row['Item Purchased'] }} - {{ row['Review Rating'] }} - {{ row['Previous Purchases'] }} - {{ row['Environmental Impact'] }}
-            </li>
-        {% endfor %}
-    </ul>
-
-    <a href="{{ url_for('index') }}">Go Back</a>
+            <table id="top-10">
+                <thead>
+                    <tr>
+                        <th>Undesired-Items</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for item, _ in top_10 %}
+                        <tr class="top-item">
+                            <td>{{ item }}</td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </main>
+    <div class="foot">
+    <a href="{{ url_for('index') }}" class="button">Back to Home</a>
+    </div>
 </body>
 </html>
