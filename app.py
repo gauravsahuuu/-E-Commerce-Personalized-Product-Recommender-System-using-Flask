@@ -54,8 +54,8 @@ def index():
         sorted_items = sorted(item_dict.items(), key=lambda x: (x[1]['average_rating'], x[1]['total_purchases']))
 
         # Get top 10 and bottom 10 items
-        top_10 = sorted_items[:10]
-        bottom_10 = sorted_items[-10:]
+        top_10 = sorted_items[:6]
+        bottom_10 = sorted_items[-6:]
 
         return render_template('results.html', top_10=top_10, bottom_10=bottom_10)
     
